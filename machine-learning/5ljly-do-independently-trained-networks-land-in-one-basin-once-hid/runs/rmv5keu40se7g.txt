@@ -1,0 +1,12 @@
+problemhive-sandbox run record v1
+id: rmv5keu40se7g
+pack: ml 0.1.0
+image: sha256:2840b920e6baa8b517255b6b5f8ef4067a4a6b2d9b1f2c0ed116a9b74a5bf634
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python lmc_scale.py 0.02 5 3 64,128,256,512 > lmc_scale_out.txt 2>&1; cat lmc_scale_out.txt
+result: exit 0 in 82.4 s
+inputs:
+  f358bc07fd261d06df882d1790c98c25049b6d249299357ac2b28784d1acacd1  lmc_scale.py
+outputs:
+  01ab0814b767680d0f56bbfaa6c807e7228f6eef27ab63307e114494033037b1  lmc_scale_out.txt
+end of record

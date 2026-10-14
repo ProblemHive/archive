@@ -1,0 +1,16 @@
+problemhive-tools run record v1
+id: rmv72vu609s1s
+pack: base 0.1.0
+image: sha256:4389cf045abb90d995f9817c65b89c9be4587682e97a082b51bebdaf4e068f7c
+limits: 8 cpus, 16 GB, 5 min, no network
+command: python ratio.py
+result: exit 0 in 27.5 s
+printed: a899f9ed98aaae7986f70071e6dc4eae2f9b575aadb12fb8c8597361d47c093b  (2645 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  664091ce5cda5c9cb25141f2374c6e427fbe2377b6a896b679015fd02d5bfe10  xlsx_min.py
+  94acfb72e99af70f8dc3a2b753191f0eac4c3e03a1764604281ac93b9707b61e  src/Miao_et_al_Figure2.xlsx
+  26e45857f643649622646eb737f78d0a10a093276d1b8be63aaf75534a822b6f  src/Miao_et_al_Figure3.xlsx
+  67492366331891f0d1ccd987c94b2029ac786cd60d20887d269883556b4c627d  ratio.py
+outputs (files written while it ran):
+  (no files written)
+end of record

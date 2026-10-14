@@ -1,0 +1,13 @@
+problemhive-sandbox run record v1
+id: rmv5j6b4vnyk5
+pack: base 0.1.0
+image: sha256:4389cf045abb90d995f9817c65b89c9be4587682e97a082b51bebdaf4e068f7c
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python fam5.py 150000 8 fam5_out.txt > fam5_log.txt 2>&1; tail -n 60 fam5_log.txt | cut -c1-400
+result: exit 0 in 199 s
+inputs:
+  be6b435c88b100c90b36edc1c86ee7fce93a4e809b7d410d126b126822fe33c5  fam5.py
+outputs:
+  a16d9ce7fc453bc672f0f57ff65039bd90a2dba843111f047a956e23027012f9  fam5_log.txt
+  c15adc23683dd11df506c3df53d2a8d1b3809933e2500cdab0cb77ca9f0048eb  fam5_out.txt
+end of record

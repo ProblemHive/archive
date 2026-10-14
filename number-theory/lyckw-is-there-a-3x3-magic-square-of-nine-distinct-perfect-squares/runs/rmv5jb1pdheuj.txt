@@ -1,0 +1,12 @@
+problemhive-sandbox run record v1
+id: rmv5jb1pdheuj
+pack: lean 0.1.0
+image: sha256:916600ae8584b68e86404575aedb3e397c11fc90a4b40cc883a855c4bff8c815
+limits: 8 cpus, 16 GB, 30 min, no network
+command: lean-check msq_square.lean
+result: exit 0 in 9.2 s
+inputs:
+  60549001c0a3cc51592f3bb7380f4f698fb7a27eeea4023d6f7f5c7b13b00ac1  msq_square.lean
+outputs:
+  (no files written)
+end of record

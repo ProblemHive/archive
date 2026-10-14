@@ -1,0 +1,13 @@
+problemhive-sandbox run record v1
+id: rmv5jaay0u7dq
+pack: stats 0.1.0
+image: sha256:75bd5b6f98daeeff23f019b0ee537db7d35e25b5c2e3fbb4b9c10b8598872f4b
+limits: 8 cpus, 16 GB, 30 min, no network
+command: Rscript meta.R ES_Nogo_error.csv > meta_out.txt 2>&1; sha256sum meta_out.txt ES_Nogo_error.csv; wc -l meta_out.txt
+result: exit 0 in 1.5 s
+inputs:
+  db7cf5213759193134472d148eae003df1b28a18eb780161be11b1a452e9188d  meta.R
+  1c644ec347cde16c3b7c865ffed59cad6169e4d324a9d1b202b2bb98de04c5c6  ES_Nogo_error.csv
+outputs:
+  f07a7714766910a52355319d007470f13614f00102f857e962b81f34fdfdea53  meta_out.txt
+end of record

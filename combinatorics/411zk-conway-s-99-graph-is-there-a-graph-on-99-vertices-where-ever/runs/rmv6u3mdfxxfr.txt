@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv6u3mdfxxfr
+pack: base 0.1.0
+image: sha256:4389cf045abb90d995f9817c65b89c9be4587682e97a082b51bebdaf4e068f7c
+limits: 8 cpus, 16 GB, 6 min, no network
+command: python orbit3g.py case 1 240
+result: exit 0 in 240.9 s
+printed: c0b62dc61d9b4e07340d235dc665229f10c195373e234fbbb1480bc2585e54e0  (148 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  4979f6861d14240a8ceb5ce7ed853eeed409251136f825516d763ef462deb0ee  orbit3g.py
+outputs (files written while it ran):
+  (no files written)
+end of record

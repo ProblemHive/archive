@@ -1,0 +1,37 @@
+# Rebuilds the problem folders from problemhive.org once a day and commits what changed.
+# It reads only the site's public pages and needs no secret: the push uses the token GitHub gives each run.
+name: export
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: export
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Copy every problem from the site
+        run: node tools/export.mjs
+      - name: Commit what changed
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Copy from problemhive.org, $(date -u +%Y-%m-%d)"
+          git push

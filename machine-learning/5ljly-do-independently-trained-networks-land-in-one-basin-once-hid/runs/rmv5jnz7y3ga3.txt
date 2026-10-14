@@ -1,0 +1,12 @@
+problemhive-sandbox run record v1
+id: rmv5jnz7y3ga3
+pack: ml 0.1.0
+image: sha256:2840b920e6baa8b517255b6b5f8ef4067a4a6b2d9b1f2c0ed116a9b74a5bf634
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python lmc_depth.py 0.02 10 3000 1,2,3 32,64,128,256,512,1024 > lmc_depth_out.txt 2>&1; cat lmc_depth_out.txt
+result: exit 0 in 952.1 s
+inputs:
+  b307c15c38c7bd9ffdb9f22eedb182d8d46831cb8efe1a549f19334887191589  lmc_depth.py
+outputs:
+  98318bac53fccfea6d1a6471c23354177fe4c421ed287401f67b975feb9848c3  lmc_depth_out.txt
+end of record
