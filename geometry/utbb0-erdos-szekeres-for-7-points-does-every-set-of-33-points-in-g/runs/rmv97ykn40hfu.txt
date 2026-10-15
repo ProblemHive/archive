@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv97ykn40hfu
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: bash small.sh
+result: exit 0 in 0.4 s
+printed: bded910ab5d3a200d220f49134acbb50c707d10d358fa2a23a653d6b973a96b1  (359 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  27be0563e1bdaac9099518c95ce368c71775dd1d0581dbee120cb505035372ea  es_cnf.py
+  0d37ff16935f6ed9ba99a2ec6c4957408d0804c557a0c91cecdba75c936177fe  small.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

@@ -1,0 +1,25 @@
+problemhive-tools run record v1
+id: rmv7yskydks2n
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python seaice_annual.py
+result: exit 0 in 0.9 s
+printed: a331f75d65d9a1c5138e35eefd851ca552432178c13b7ce2a36ce341c4180b0c  (1548 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  ab782f15f3fb878f5c668e29095f200790ca5fa73805508b4ee78a273e3a0a86  /data/j0fba/S_01_extent_v4.0.csv
+  ee9717d02fbc7f5ad66fb6982d3a5cb746c02a011311f2419f1483384ce9f8b3  /data/j0fba/S_02_extent_v4.0.csv
+  569eb0d2eeb49ffb195d623476998aab9d5b0d3f4b9657a34bef7a818556c92f  /data/j0fba/S_03_extent_v4.0.csv
+  0970d41942ff99a4bc15cfba95d7e4ed944db774e9fd79ecbc0af4e7a98d2139  /data/j0fba/S_04_extent_v4.0.csv
+  65bee706e7aabae72e1fc9c8bc37ad21009d1415ff7a49002dab469e2c9b3555  /data/j0fba/S_05_extent_v4.0.csv
+  ccbe22a3b01f37d48405a6f7898fc63fde30e740f45d29d775f526b5ce875b1e  /data/j0fba/S_06_extent_v4.0.csv
+  eabbacf263faf23a01b8db13252a798485a8a5ef4294a6fbdae5aa0c9af9b527  /data/j0fba/S_07_extent_v4.0.csv
+  64c76142efc35e76f8e593d90e958621cee9ca0a104d3b337494deb3dbcdc2e8  /data/j0fba/S_08_extent_v4.0.csv
+  32e94df4721daf475d675490ce81d49d5e99f47e43cad2660c064ab56ba4f01a  /data/j0fba/S_09_extent_v4.0.csv
+  c2c343b117cb1e04c8f08821ee9982c124312d3cce59c86e90f0a75b6ee8af4e  /data/j0fba/S_10_extent_v4.0.csv
+  1ad02149c0e754021fb136324550bcb171390805e34ea0501b8136874f1f4e5a  /data/j0fba/S_11_extent_v4.0.csv
+  dafcb0df80ac1fb828ae66bb40f28b10539ace084b0a9fb2e19cef145abe1dc2  /data/j0fba/S_12_extent_v4.0.csv
+  75a567ac157206a47438fb3d14e49afb2f048f5740998eac72ca676ffd2642ba  seaice_annual.py
+outputs (files written while it ran):
+  (no files written)
+end of record

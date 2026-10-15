@@ -1,0 +1,45 @@
+[
+    {
+        "title":  "KiDS-Legacy: Cosmological constraints from cosmic shear with the complete Kilo-Degree Survey",
+        "doi":  "10.1051/0004-6361/202554908",
+        "url":  "https://arxiv.org/pdf/2503.19441v2",
+        "note":  "arXiv:2503.19441v2; A\u0026A 703, A158 (2025) per the arXiv record"
+    },
+    {
+        "title":  "KiDS-Legacy: Consistency of cosmic shear measurements and joint cosmological constraints with external probes",
+        "doi":  "10.1051/0004-6361/202554893",
+        "url":  "https://arxiv.org/pdf/2503.19442v2",
+        "note":  "arXiv:2503.19442v2; A\u0026A 702, A169 (2025) per the arXiv record"
+    },
+    {
+        "title":  "KiDS-Legacy: Joint analysis of second- and third-order cosmic shear",
+        "url":  "https://arxiv.org/pdf/2606.12389v1",
+        "note":  "arXiv:2606.12389v1; preprint"
+    },
+    {
+        "title":  "Dark Energy Survey Year 6 Results: Cosmological Constraints from Cosmic Shear",
+        "url":  "https://arxiv.org/pdf/2602.10065v1",
+        "note":  "arXiv:2602.10065v1; preprint"
+    },
+    {
+        "title":  "Dark Energy Survey Year 6 Results: Cosmological Constraints from Galaxy Clustering and Weak Lensing",
+        "url":  "https://arxiv.org/pdf/2601.14559v2",
+        "note":  "arXiv:2601.14559v2; preprint"
+    },
+    {
+        "title":  "Cosmic Shear constraints from HSC Year 3 with clustering calibration of the tomographic redshift distributions from DESI",
+        "url":  "https://arxiv.org/pdf/2511.18134v4",
+        "note":  "arXiv:2511.18134v4; preprint"
+    },
+    {
+        "title":  "Status of the S8 Tension: A 2026 Review of Probe Discrepancies",
+        "doi":  "10.1016/j.dark.2026.102286",
+        "url":  "https://arxiv.org/pdf/2602.12238v2",
+        "note":  "arXiv:2602.12238v2; Phys. Dark Univ. 52 (2026) 102286 per the arXiv record"
+    },
+    {
+        "title":  "Dark Energy Survey Year 6 Results: fast and interpretable posterior predictive checks for correlated cosmic probes",
+        "url":  "https://arxiv.org/pdf/2610.03447v1",
+        "note":  "arXiv:2610.03447v1; preprint"
+    }
+]

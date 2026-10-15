@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv8i8pn8s66m
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python -u eff.py
+result: exit 0 in 0.1 s
+printed: ce7f6400de020f9aafa768b0361fcd0798c0a234f84ff3c9eaf7fa7e2b60d0c3  (1734 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  1878c05d2f80905f568fd1986156b15c0c439a789c2ec77c6d3518be10a5bbce  eff.py
+outputs (files written while it ran):
+  (no files written)
+end of record

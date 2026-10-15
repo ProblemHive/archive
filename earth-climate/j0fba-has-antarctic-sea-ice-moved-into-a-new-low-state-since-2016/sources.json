@@ -1,0 +1,20 @@
+[
+  {
+    "title": "NSIDC Sea Ice Index, Version 4 (G02135), Southern Hemisphere monthly extent, files S_01_extent_v4.0.csv to S_12_extent_v4.0.csv",
+    "url": "https://noaadata.apps.nsidc.org/NOAA/G02135/south/monthly/data/",
+    "note": "downloaded 2026-10-14; sha256 of each file is in the run records above",
+    "from": "c-ir7ihn"
+  },
+  {
+    "title": "Record low Antarctic sea ice coverage indicates a new sea ice state",
+    "doi": "10.1038/s43247-023-00961-9",
+    "note": "source of the three periods; cited in the post",
+    "from": "c-ir7ihn"
+  },
+  {
+    "title": "Observational Evidence for a Regime Shift in Summer Antarctic Sea Ice",
+    "doi": "10.1175/JCLI-D-23-0479.1",
+    "note": "the doubling of summer variance compared with here; cited in the post",
+    "from": "c-ir7ihn"
+  }
+]

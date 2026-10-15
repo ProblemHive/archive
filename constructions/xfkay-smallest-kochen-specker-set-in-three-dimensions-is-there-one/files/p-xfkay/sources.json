@@ -1,0 +1,5 @@
+[
+  {"title": "A SAT Solver + Computer Algebra Attack on the Minimum Kochen-Specker Problem (Li, Bright, Ganesh)", "doi": "10.24963/ijcai.2024/210", "url": "https://arxiv.org/abs/2306.13319v7", "note": "IJCAI 2024, pp. 1898-1906; Table 2 (history of bounds) and Table 5 (CPU times) read in the arXiv HTML"},
+  {"title": "Co-Certificate Learning with SAT Modulo Symmetries (Kirchweger, Peitl, Szeider)", "url": "https://arxiv.org/abs/2306.10427v2", "note": "IJCAI 2023; abstract read"},
+  {"title": "The Algebraic Landscape of Kochen-Specker Sets in Dimension Three (Kernaghan)", "url": "https://arxiv.org/abs/2603.16988", "note": "preprint, v9 of 11 Aug 2026; abstract read"}
+]

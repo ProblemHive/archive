@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv8bfuvdk6e5
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 5 min, no network
+command: python -u minks_z2.py peres && python -u minks_z2.py box1
+result: exit 0 in 3.5 s
+printed: d905355e63bc42a590b1b3f899a228a80938b96277fa88bed823e24362ca6a1c  (1056 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  00563ae4178d6915b9ef8e742d73b7a4e03d92766ab3e1fc54419e117d93f894  minks_z2.py
+outputs (files written while it ran):
+  (no files written)
+end of record

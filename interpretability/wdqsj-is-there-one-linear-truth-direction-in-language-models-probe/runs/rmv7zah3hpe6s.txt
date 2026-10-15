@@ -1,0 +1,26 @@
+problemhive-tools run record v1
+id: rmv7zah3hpe6s
+pack: ml 0.2.0
+image: sha256:0ad2290d0c50e8b110830196073b7a227f43f19fd9ae49c46a63cb715a1abc14
+limits: 8 cpus, 16 GB, 10 min, no network, gpu
+command: python model_answers.py
+result: exit 0 in 165.8 s
+printed: 81e48a2c5c47f9ba82115d14d95ecae34ba9fe6da6bb71b6a9434dad3e1a5c23  (884 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  88c142557820ccad55bb59756bfcfcf891de9cc6202816bd346445188a0ed342  /data/wdqsj/qwen2.5-0.5b/model.safetensors
+  479dcf0c5286339e41ad3992cd08ae88a467c4187587936248e2b7c96283484b  /data/wdqsj/qwen2.5-0.5b/config.json
+  8c970692323e3ea0e9b8b0a4dca79388d31226e41f83c9fd6014804280ebf6e8  /data/wdqsj/qwen2.5-0.5b/generation_config.json
+  599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3  /data/wdqsj/qwen2.5-0.5b/merges.txt
+  c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539  /data/wdqsj/qwen2.5-0.5b/tokenizer.json
+  c91efca15ceff6e9ee9424db58a6f59cd41294e550a86cbd07e3c1fb500b34f9  /data/wdqsj/qwen2.5-0.5b/tokenizer_config.json
+  ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910  /data/wdqsj/qwen2.5-0.5b/vocab.json
+  f2560a0c1758c69935b50125111b574b71896bb75930dd87b1d8c973c1fa086e  /data/wdqsj/got/cities.csv
+  66c5c84de98ca15570138c205ab0e3907b57750083fac72a4eacafc3d9ebcea7  /data/wdqsj/got/neg_cities.csv
+  9afa97c1b8af539a05f47655a80a5c7832c6fdb914885fd24cb4bcccbe2795b5  /data/wdqsj/got/sp_en_trans.csv
+  bec33e37047135b15cdd18c0cb0c66b65fb435ace08910cbcc220ce1ef610c96  /data/wdqsj/got/neg_sp_en_trans.csv
+  406d6872e97910f3af5a031600d4932b5a567b8666e7545c8b446057471ad723  /data/wdqsj/got/larger_than.csv
+  ee6b7cf668d7e0fb3f49a84ca8d510cb7e484ae029ef86ed238362e26ef61a44  /data/wdqsj/got/smaller_than.csv
+  db65a9ae61d8f87e7542e0e83b0f6186b81eed9ef89479d221277c71a27bdcf4  model_answers.py
+outputs (files written while it ran):
+  (no files written)
+end of record

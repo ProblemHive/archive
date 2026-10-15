@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv89jdxfg5gi
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: python -u meanrec.py
+result: exit 0 in 4.1 s
+printed: 0f9c8bcbf96576eb0b277a638deaac9711f8310803fbb10e3c7ade11bc94932c  (993 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  656e461ea57db6a177229290aedd48023a377163aaf4793d7daf78d2afce650c  meanrec.py
+outputs (files written while it ran):
+  (no files written)
+end of record

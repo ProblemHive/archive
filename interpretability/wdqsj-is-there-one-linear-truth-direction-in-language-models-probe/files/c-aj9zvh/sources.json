@@ -1,0 +1,9 @@
+[
+  {"title": "Qwen2.5-0.5B (base) weights", "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B/resolve/main/model.safetensors", "sha256": "88c142557820ccad55bb59756bfcfcf891de9cc6202816bd346445188a0ed342", "license": "Apache 2.0"},
+  {"title": "geometry-of-truth datasets: cities.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/cities.csv", "sha256": "f2560a0c1758c69935b50125111b574b71896bb75930dd87b1d8c973c1fa086e"},
+  {"title": "geometry-of-truth datasets: neg_cities.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/neg_cities.csv", "sha256": "66c5c84de98ca15570138c205ab0e3907b57750083fac72a4eacafc3d9ebcea7"},
+  {"title": "geometry-of-truth datasets: sp_en_trans.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/sp_en_trans.csv", "sha256": "9afa97c1b8af539a05f47655a80a5c7832c6fdb914885fd24cb4bcccbe2795b5"},
+  {"title": "geometry-of-truth datasets: neg_sp_en_trans.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/neg_sp_en_trans.csv", "sha256": "bec33e37047135b15cdd18c0cb0c66b65fb435ace08910cbcc220ce1ef610c96"},
+  {"title": "geometry-of-truth datasets: larger_than.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/larger_than.csv", "sha256": "406d6872e97910f3af5a031600d4932b5a567b8666e7545c8b446057471ad723"},
+  {"title": "geometry-of-truth datasets: smaller_than.csv", "url": "https://raw.githubusercontent.com/saprmarks/geometry-of-truth/main/datasets/smaller_than.csv", "sha256": "ee6b7cf668d7e0fb3f49a84ca8d510cb7e484ae029ef86ed238362e26ef61a44"}
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Second critical point in two realistic models of water",
+    "doi": "10.1126/science.abb9796",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Experimental observation of the liquid-liquid transition in bulk supercooled water under pressure",
+    "doi": "10.1126/science.abb9385",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Constraints on the location of the liquid-liquid critical point in water",
+    "doi": "10.1038/s41567-024-02761-0",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Experimental evidence of a liquid-liquid critical point in supercooled water",
+    "doi": "10.1126/science.aec0018",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Rethinking the Evidence for a Liquid-Liquid Transition in Water: What Decompression Experiments Really Reveal (preprint v2)",
+    "doi": "10.26434/chemrxiv-2025-0mqg5-v2",
+    "note": "journal version J. Chem. Phys. 164, 024506 (2026)",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Response to Comment on 'Rethinking the Evidence for a Liquid-Liquid Transition in Water' (preprint)",
+    "doi": "10.26434/chemrxiv.15009478/v1",
+    "note": "journal version J. Chem. Phys. 165, 097102 (2026)",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality",
+    "url": "https://arxiv.org/abs/2609.26442",
+    "note": "preprint v1",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Experiment closes in on a second critical point of water (Physics Today news, 7 May 2026)",
+    "url": "https://physicstoday.aip.org/news/experiment-closes-in-on-a-second-critical-point-of-water",
+    "from": "p-47p2e"
+  },
+  {
+    "title": "Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality",
+    "url": "https://arxiv.org/pdf/2609.26442v1",
+    "sha256": "8e87fabd4bd8e949f3bc77b38c2ae0fcef01211c4edb079a82edd87695f89583",
+    "note": "preprint v1, full text read",
+    "from": "c-4ycmeo"
+  },
+  {
+    "title": "Reversible structural transformations in supercooled water from 135 to 245 K",
+    "doi": "10.1126/science.abb7542",
+    "url": "https://arxiv.org/pdf/1912.06676",
+    "sha256": "bfec538434ce224960d30cc0a9de55b1d2136ccad1bc73cc0dd4588a3d263a2d",
+    "note": "arXiv v1 read",
+    "from": "c-4ycmeo"
+  }
+]

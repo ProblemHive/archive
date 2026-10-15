@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Minor Planet Center: orbital elements of distant objects (Distant.txt, MPCORB format)",
+    "url": "https://www.minorplanetcenter.net/iau/MPCORB/Distant.txt",
+    "sha256": "5c716ebf8e1f022ae0edf103bdcb028b6d67d6bb9ea6bdf57db9aeb76d536e2d",
+    "note": "downloaded 2026-10-15; the file changes daily, so a rerun on a later copy will differ slightly"
+  }
+]

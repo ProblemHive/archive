@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv8b9p4mhrur
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 5 min, no network
+command: python -u check31.py
+result: exit 0 in 0.2 s
+printed: d92cbf2397db7367fe191a9dff17c664f6706206dd2f5026bce8ca7f5642cb0b  (151 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  894bebd6c06cd61cc773181a7b68c0ea254614de875fc48214d4399f38d2a791  check31.py
+outputs (files written while it ran):
+  (no files written)
+end of record

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Lower Bounds for Sorting 16, 17, and 18 Elements",
+    "url": "https://arxiv.org/pdf/2206.05597v2",
+    "sha256": "f7866e87b7761b97c375707483e2d8d978337d0c1ec4430e694a62acf3232e38",
+    "note": "Table 2 (running times and efficiencies), conclusion on n >= 23"
+  },
+  {
+    "title": "sortinglowerbounds (code and result logs of Stober and Weiss)",
+    "url": "https://github.com/CodeCrafter47/sortinglowerbounds/archive/refs/heads/main.zip",
+    "sha256": "b83167dab2f61f1fd2bf9b5ce7b84da150dd814296bde8129d59400ff95a43b9",
+    "note": "README and results/output19, output22, output28 read; code not run"
+  }
+]

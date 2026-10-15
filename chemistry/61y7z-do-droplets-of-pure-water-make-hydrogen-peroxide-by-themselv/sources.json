@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Spontaneous generation of hydrogen peroxide from aqueous microdroplets",
+    "doi": "10.1073/pnas.1911883116",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6765303/fullTextXML",
+    "sha256": "ddbb13fa07e64cc37a44deb66874d44845b6c9caaaacfc7061113467e4c4f41a",
+    "note": "Lee et al., PNAS 116 (2019); PMC full text, methods and results read; SI not read",
+    "from": "c-xr54t4"
+  },
+  {
+    "title": "On the formation of hydrogen peroxide in water microdroplets",
+    "doi": "10.1039/D1SC06465G",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8890092/fullTextXML",
+    "sha256": "78284407be8f2e5c346d00f15fb2efdf2bb08f154c57d1ebb3512f3bbc2c6357",
+    "note": "Gallo et al., Chem. Sci. 13 (2022); PMC full text; ESI not read",
+    "from": "c-xr54t4"
+  },
+  {
+    "title": "Busting the myth of spontaneous formation of H2O2 at the air-water interface: contributions of the liquid-solid interface and dissolved oxygen exposed",
+    "doi": "10.1039/D3SC06534K",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10901496/fullTextXML",
+    "sha256": "466cf9567dcbf7163be3ba02a4c41c8400a6c426e650340b8afe06dec2257936",
+    "note": "Eatoo and Mishra, Chem. Sci. 15 (2024); PMC full text; ESI not read",
+    "from": "c-xr54t4"
+  },
+  {
+    "title": "Asymmetry in Droplet Charge and H2O2 Production: Exclusive Production of Hydrogen Peroxide in Negatively Charged Microdroplets via Electron Emission",
+    "doi": "10.1021/jacsau.6c00548",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13508076/fullTextXML",
+    "sha256": "d45759b8648d155d4309324e2c7b3383c35393823b3ba305a2bf9f4c6c05b742",
+    "note": "Chen, Kim, Williams and Wilson, JACS Au (2026); PMC full text; SI not read",
+    "from": "c-xr54t4"
+  }
+]

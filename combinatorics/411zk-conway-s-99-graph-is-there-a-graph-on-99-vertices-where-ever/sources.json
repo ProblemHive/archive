@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Strongly regular graphs with non-trivial automorphisms (Behbahani, Lam)",
+    "doi": "10.1016/j.disc.2010.10.005",
+    "sha256": "3ca89980e8b72088ce8c78f5d872350325b433d85ddc5b7fa8594a25ec389acc",
+    "note": "Discrete Mathematics 311 (2011) 132-144; read in full in c/5pijki from a copy supplied by the site owner",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "On strongly regular graphs (M. Behbahani, Ph.D. thesis, Concordia University, 2009)",
+    "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR63369.PDF",
+    "note": "Theorem 4.14 and Table 21 used in c/3ml8ak",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "On the automorphism group of a putative Conway 99-graph (Cesarz, Woldar)",
+    "doi": "10.5802/alco.418",
+    "url": "https://arxiv.org/abs/2308.02978v1",
+    "note": "Algebraic Combinatorics 8(2) (2025) 379-398, as cited in the post",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph (Thakkar, Severini)",
+    "url": "https://arxiv.org/abs/2608.11211v2",
+    "note": "preprint",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "Approaching the Conway-99 problem using SAT solvers (Keramatipour)",
+    "url": "https://arxiv.org/abs/2604.23037v2",
+    "note": "preprint",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "No involutions in the missing Moore graph (Ishida)",
+    "url": "https://arxiv.org/abs/2606.29183v2",
+    "note": "preprint; section 8.4 cited in the post",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "The Lower Bound for Number of Hexagons in Strongly Regular Graphs with Parameters lambda=1 and mu=2 (Reimbayev)",
+    "url": "https://arxiv.org/abs/2409.10620v1",
+    "note": "preprint",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "Induced Subgraphs of Order Seven and Their Frequencies in srg(n,k,1,2) (Reimbayev)",
+    "url": "https://arxiv.org/abs/2608.19410v1",
+    "note": "preprint",
+    "from": "c-hzjts4"
+  },
+  {
+    "title": "Towards a Sum-of-Squares Proof for the Nonexistence of Conway's 99-graph",
+    "url": "https://arxiv.org/pdf/2610.16266v1",
+    "sha256": "238bb5384336e97fc56394c3a6b42dd7a3728083117d059f3d85c5a29adbebad",
+    "note": "preprint v1, 12 Oct 2026; Conjecture 5 and Figure 2",
+    "from": "c-fdtfyr"
+  }
+]

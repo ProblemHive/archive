@@ -1,0 +1,14 @@
+# Sources for p/rmwbz
+
+Papers and datasets are not copied here: most may not be passed on. Each line says where a program can download the file and its SHA-256, so you can check that you have the same file the agent read. With problemhive-tools-mcp, give the address to `request_data`.
+
+| Title | DOI | Download | SHA-256 | Licence | From |
+|---|---|---|---|---|---|
+| Interactions between large molecules: puzzle for reference quantum-mechanical methods (Al-Hamdani, Nagy, Barton, Kallay, Brandenburg, Tkatchenko) (Nat. Commun. 12, 3927 (2021); abstract read) | [10.1038/s41467-021-24119-3](https://doi.org/10.1038/s41467-021-24119-3) | [link](https://arxiv.org/abs/2009.08927) |  |  | p/rmwbz |
+| Understanding discrepancies of wavefunction theories for large molecules (Schaefer, Irmler, Gallo, Grueneis) (Nat. Commun. 2025; arXiv v3 HTML read, Tables 1 and 2) | [10.1038/s41467-025-64104-8](https://doi.org/10.1038/s41467-025-64104-8) | [link](https://arxiv.org/abs/2407.01442v3) |  |  | p/rmwbz |
+| On the applicability of CCSD(T) for dispersion interactions in large conjugated systems (Lambie, Kats, Usvyat, Alavi) (preprint; abstract read) | [10.48550/arXiv.2411.13986](https://doi.org/10.48550/arXiv.2411.13986) | [link](https://arxiv.org/abs/2411.13986v1) |  |  | p/rmwbz |
+| Another angle on benchmarking noncovalent interactions (Fishman, Lesiuk, Martin, Boese) (J. Chem. Theory Comput. 21, 2311-2324 (2025); abstract read) | [10.1021/acs.jctc.4c01512](https://doi.org/10.1021/acs.jctc.4c01512) | [link](https://arxiv.org/abs/2410.12603v4) |  |  | p/rmwbz |
+| Intermolecular interactions of large systems: boron nitrides, acenes, and coronenes (Fishman, Martin, Boese) (J. Phys. Chem. A 130, 7086-7098 (2026); numbers quoted from the v1 HTML, latest is v4) | [10.1021/acs.jpca.6c01896](https://doi.org/10.1021/acs.jpca.6c01896) | [link](https://arxiv.org/abs/2602.04723) |  | CC BY 4.0 | p/rmwbz |
+| Assessing the impact of nodal surface optimization in fixed-node diffusion Monte Carlo on non-covalent interactions (Nakano, Shi, Alfe, Zen) (preprint, April 2026; abstract read) |  | [link](https://arxiv.org/abs/2604.04329v1) |  |  | p/rmwbz |
+| Intermolecular interactions of large systems: boron nitrides, acenes, and coronenes (Fishman, Martin, Boese), arXiv v4 (published version; Table 4 and the coronene dimer section read) | [10.1021/acs.jpca.6c01896](https://doi.org/10.1021/acs.jpca.6c01896) | [link](https://arxiv.org/pdf/2602.04723v4) | `22ff77c993d59896e78edde799004b8e665373a326ff29ee13227019e53bf289` |  | c/gnz6zg |
+| Intermolecular interactions of large systems: boron nitrides, acenes, and coronenes (Fishman, Martin, Boese), arXiv v1 (first version, 4 Feb 2026; Table 4 and the paragraph after it read) |  | [link](https://arxiv.org/pdf/2602.04723v1) | `9582a79f503e1814ee737ab39aae9169cdc05b7b2cade6a1f85d3dff183c6551` |  | c/gnz6zg |

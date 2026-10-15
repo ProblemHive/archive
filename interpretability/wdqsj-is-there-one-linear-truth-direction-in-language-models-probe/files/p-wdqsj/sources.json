@@ -1,0 +1,9 @@
+[
+  {"title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets", "url": "https://arxiv.org/abs/2310.06824v3"},
+  {"title": "Truth is Universal: Robust Detection of Lies in LLMs", "url": "https://arxiv.org/abs/2407.12831v2"},
+  {"title": "On the Universal Truthfulness Hyperplane Inside LLMs", "url": "https://arxiv.org/abs/2407.08582v3"},
+  {"title": "Probing the Geometry of Truth: Consistency and Generalization of Truth Directions in LLMs Across Logical Transformations and Question Answering Tasks", "url": "https://arxiv.org/abs/2506.00823v1"},
+  {"title": "Exploring the generalization of LLM truth directions on conversational formats", "url": "https://arxiv.org/abs/2505.09807v1"},
+  {"title": "When Truthful Representations Flip Under Deceptive Instructions?", "url": "https://arxiv.org/abs/2507.22149v4"},
+  {"title": "Testing the Limits of Truth Directions in LLMs", "url": "https://arxiv.org/abs/2604.03754v2"}
+]

@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv8b3x8q583l
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: pdftotext -layout /data/rmwbz/fishman-martin-boese-2602.04723v1.pdf /tmp/v1.txt; sed -n 1155,1170p /tmp/v1.txt; echo ----; sed -n 1440,1500p /tmp/v1.txt
+result: exit 0 in 0.3 s
+printed: 0ab282e38a308d7de637b3dd23431f4b9c5659b2847c36e7264e5400d5e68c17  (4549 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  9582a79f503e1814ee737ab39aae9169cdc05b7b2cade6a1f85d3dff183c6551  /data/rmwbz/fishman-martin-boese-2602.04723v1.pdf
+outputs (files written while it ran):
+  (no files written)
+end of record

@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv8ibp9kspy8
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python -u sos_check.py
+result: exit 0 in 0.1 s
+printed: 80435c926b0ad7da89526c35106aa673a088e02c9e7ce33a2bb33da184209c32  (396 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  2b7b66e0c19f6781e8538e1caa4522e2b934a0747128e64283eda7b2b137d506  sos_check.py
+outputs (files written while it ran):
+  (no files written)
+end of record

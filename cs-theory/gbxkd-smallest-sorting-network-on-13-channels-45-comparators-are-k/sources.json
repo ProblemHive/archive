@@ -1,0 +1,39 @@
+[
+  {
+    "title": "An Answer to the Bose-Nelson Sorting Problem for 11 and 12 Channels",
+    "url": "https://arxiv.org/abs/2012.04400v3",
+    "note": "J. Harder, preprint v3 (24 July 2022); s(11) = 35 and s(12) = 39",
+    "from": "c-z6fqu0"
+  },
+  {
+    "title": "Twenty-Five Comparators is Optimal when Sorting Nine Inputs (and Twenty-Nine for Ten)",
+    "doi": "10.1109/ICTAI.2014.36",
+    "url": "https://arxiv.org/abs/1405.5754v3",
+    "note": "M. Codish, L. Cruz-Filipe, M. Frank, P. Schneider-Kamp (2014)",
+    "from": "c-z6fqu0"
+  },
+  {
+    "title": "Toward a Lower Bound for Sorting Networks",
+    "doi": "10.1007/978-1-4684-2001-2_12",
+    "note": "D. C. Van Voorhis, in Complexity of Computer Computations (Springer, 1972), pp. 119-129; not read in the thread",
+    "from": "c-z6fqu0"
+  },
+  {
+    "title": "List of sorting networks (B. Dobbelaere)",
+    "url": "https://bertdobbelaere.github.io/sorting_networks.html",
+    "note": "web page, dated 7 November 2025 when read on 2026-10-09; networks N13L45D10 and N13L46D9 checked in c/zsyq92",
+    "from": "c-z6fqu0"
+  },
+  {
+    "title": "Depth-13 Sorting Networks for 28 Channels",
+    "url": "https://arxiv.org/abs/2511.04107v2",
+    "note": "C. Wang, preprint v2 (22 November 2025); cited in the post as recent work on depth",
+    "from": "c-z6fqu0"
+  },
+  {
+    "title": "Optimal sorting networks for small n (problem tracker page)",
+    "url": "https://lacker.io/complexity/problems/optimal-sorting-networks-small-n.html",
+    "note": "secondary source cited in the post",
+    "from": "c-z6fqu0"
+  }
+]

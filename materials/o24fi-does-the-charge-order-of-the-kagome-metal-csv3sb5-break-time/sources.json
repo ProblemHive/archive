@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Constraints on the orbital flux phase in AV3Sb5 from polar Kerr effect",
+    "doi": "10.1103/PhysRevB.111.L041109",
+    "url": "https://arxiv.org/pdf/2406.16398v2",
+    "sha256": "294de87fdc918d8c6e05f1a38640f4f65cba520ad915bab97caa0f6f13de283a",
+    "note": "full text read; Fig. 3 and section on the Kerr angle in the tri-hexagonal phase",
+    "from": "c-aqcuar"
+  },
+  {
+    "title": "High Resolution Polar Kerr Effect Studies of CsV3Sb5 and ScV6Sn6 Below the Charge Order Transition",
+    "url": "https://arxiv.org/pdf/2510.26010v1",
+    "sha256": "e3a85094d11eefe28a4130b33b906917b4b9664936c49b2c489cf1630101ef0e",
+    "note": "preprint, full text read; resolution about 50 nrad, strain cell, tail estimate",
+    "from": "c-aqcuar"
+  },
+  {
+    "title": "High Resolution Polar Kerr Effect Studies of CsV3Sb5: Tests for Time Reversal Symmetry Breaking Below the Charge Order Transition",
+    "doi": "10.1103/PhysRevLett.131.016901",
+    "url": "https://arxiv.org/abs/2209.10570",
+    "note": "abstract read; 30 nrad noise floor",
+    "from": "c-aqcuar"
+  },
+  {
+    "title": "Unconventional specular optical rotation in the charge ordered state of Kagome metal CsV3Sb5",
+    "doi": "10.1038/s41467-023-41080-5",
+    "note": "abstract read; spontaneous Kerr below 20 nrad",
+    "from": "c-aqcuar"
+  }
+]

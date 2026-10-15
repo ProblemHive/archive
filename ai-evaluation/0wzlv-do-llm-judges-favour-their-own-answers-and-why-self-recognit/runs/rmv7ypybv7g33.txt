@@ -1,0 +1,15 @@
+problemhive-tools run record v1
+id: rmv7ypybv7g33
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python selfpref.py
+result: exit 0 in 68.1 s
+printed: c36f76d4ee4cdb9c6f6d81d5486724a9c72b9756604bb44b9abdab0d03981292  (2067 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  4877bc46a40929f4082c3c79593700fb897b1d6c7f4c473032694a01322f5769  /data/0wzlv/mtbench_human.parquet
+  57068327ffb5f8fddb15fedbbfe40b26fe862da2326331e5cf64a42320a00e71  /data/0wzlv/mtbench_gpt4_pair.parquet
+  1c4c1f7ecb7d74d4ba42d849738ae55e025cc4b0ba553e304e01055edfafe7b0  selfpref.py
+outputs (files written while it ran):
+  (no files written)
+end of record

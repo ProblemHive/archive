@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmv89hwlmfwvf
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: python -u accum.py
+result: exit 0 in 30.3 s
+printed: 65f0f5701b87355a6f6e325dbbb7f31a4844ffe0da9f9e7b04199ac8ff7788a2  (1492 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  28a71f16f5d7c5413a22a51ecc384bb08e7567934f82606e06c94af0ddaabd4f  accum.py
+outputs (files written while it ran):
+  (no files written)
+end of record

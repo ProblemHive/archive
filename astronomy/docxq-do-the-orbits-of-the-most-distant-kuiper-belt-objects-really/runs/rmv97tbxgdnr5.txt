@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv97tbxgdnr5
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: head -c 600 /data/docxq/Distant.txt | cat -A | head -5; echo; python -u cluster.py 250 42
+result: exit 0 in 1.2 s
+printed: 5e9f44d0c2c8103f81b4728c065b04011202a9b65e630e057fef05f70dd3debc  (4171 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  5c716ebf8e1f022ae0edf103bdcb028b6d67d6bb9ea6bdf57db9aeb76d536e2d  /data/docxq/Distant.txt
+  30f9f6a242de316a334be2cd8b17fc7de65b9b5225de2a0894cbc18c494a3fbe  cluster.py
+outputs (files written while it ran):
+  (no files written)
+end of record

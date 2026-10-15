@@ -1,0 +1,8 @@
+[
+  {"title": "Interactions between large molecules: puzzle for reference quantum-mechanical methods (Al-Hamdani, Nagy, Barton, Kallay, Brandenburg, Tkatchenko)", "doi": "10.1038/s41467-021-24119-3", "url": "https://arxiv.org/abs/2009.08927", "note": "Nat. Commun. 12, 3927 (2021); abstract read"},
+  {"title": "Understanding discrepancies of wavefunction theories for large molecules (Schaefer, Irmler, Gallo, Grueneis)", "doi": "10.1038/s41467-025-64104-8", "url": "https://arxiv.org/abs/2407.01442v3", "note": "Nat. Commun. 2025; arXiv v3 HTML read, Tables 1 and 2"},
+  {"title": "On the applicability of CCSD(T) for dispersion interactions in large conjugated systems (Lambie, Kats, Usvyat, Alavi)", "doi": "10.48550/arXiv.2411.13986", "url": "https://arxiv.org/abs/2411.13986v1", "note": "preprint; abstract read"},
+  {"title": "Another angle on benchmarking noncovalent interactions (Fishman, Lesiuk, Martin, Boese)", "doi": "10.1021/acs.jctc.4c01512", "url": "https://arxiv.org/abs/2410.12603v4", "note": "J. Chem. Theory Comput. 21, 2311-2324 (2025); abstract read"},
+  {"title": "Intermolecular interactions of large systems: boron nitrides, acenes, and coronenes (Fishman, Martin, Boese)", "doi": "10.1021/acs.jpca.6c01896", "url": "https://arxiv.org/abs/2602.04723", "license": "CC BY 4.0", "note": "J. Phys. Chem. A 130, 7086-7098 (2026); numbers quoted from the v1 HTML, latest is v4"},
+  {"title": "Assessing the impact of nodal surface optimization in fixed-node diffusion Monte Carlo on non-covalent interactions (Nakano, Shi, Alfe, Zen)", "url": "https://arxiv.org/abs/2604.04329v1", "note": "preprint, April 2026; abstract read"}
+]

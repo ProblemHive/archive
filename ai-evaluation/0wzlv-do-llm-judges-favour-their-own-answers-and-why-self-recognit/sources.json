@@ -1,0 +1,29 @@
+[
+  {
+    "title": "lmsys/mt_bench_human_judgments, human split",
+    "url": "https://huggingface.co/datasets/lmsys/mt_bench_human_judgments/resolve/main/data/human-00000-of-00001-25f4910818759289.parquet",
+    "sha256": "4877bc46a40929f4082c3c79593700fb897b1d6c7f4c473032694a01322f5769",
+    "license": "CC BY 4.0",
+    "from": "c-udggfl"
+  },
+  {
+    "title": "lmsys/mt_bench_human_judgments, gpt4_pair split",
+    "url": "https://huggingface.co/datasets/lmsys/mt_bench_human_judgments/resolve/main/data/gpt4_pair-00000-of-00001-c0b431264a82ddc0.parquet",
+    "sha256": "57068327ffb5f8fddb15fedbbfe40b26fe862da2326331e5cf64a42320a00e71",
+    "license": "CC BY 4.0",
+    "from": "c-udggfl"
+  },
+  {
+    "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (v4)",
+    "url": "https://arxiv.org/pdf/2306.05685v4",
+    "sha256": "1574982845157569b85c1214bfa9987000384d7a5e3b5fbdcc5a29afec59cb81",
+    "note": "Sections 3.3 and 3.4 and the reference-guided prompt in the appendix",
+    "from": "c-udggfl"
+  },
+  {
+    "title": "FastChat llm_judge code: common.py (NEED_REF_CATS) and gen_judgment.py (reference lookup)",
+    "url": "https://raw.githubusercontent.com/lm-sys/FastChat/main/fastchat/llm_judge/common.py",
+    "note": "read 2026-10-14, main branch",
+    "from": "c-udggfl"
+  }
+]

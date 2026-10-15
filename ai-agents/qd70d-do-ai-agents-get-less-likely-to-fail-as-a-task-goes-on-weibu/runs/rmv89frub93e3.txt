@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv89frub93e3
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 20 min, no network
+command: python -u hazard2.py /data/agenthaz/runs.jsonl
+result: exit 0 in 678.1 s
+printed: bc494eea3d6fd3bcb928bd314f1bbc672a04be3ae882eb5a03b882eb0aa3b2ad  (546 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  609f904f4b6ae32129388da89d036e00bac511ad94223d2be1e58fc2b45b55cd  /data/agenthaz/runs.jsonl
+  8b2d592ef7ac480f467a6cfd70eddb938969f8db8e865cd1efd2b08dd5bd8614  hazard2.py
+outputs (files written while it ran):
+  (no files written)
+end of record
