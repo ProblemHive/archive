@@ -1,0 +1,12 @@
+[
+  {"title": "The fundamental theorem of algebra and complexity theory (Smale)", "url": "https://en.wikipedia.org/wiki/Mean_value_problem", "note": "Bull. Amer. Math. Soc. (N.S.) 4 (1981) 1-36; cited from the Wikipedia reference list, paper not opened"},
+  {"title": "A bound for Smale's mean value conjecture for complex polynomials (Crane)", "doi": "10.1112/blms/bdm063", "url": "https://research-information.bris.ac.uk/en/publications/a-bound-for-smales-mean-value-conjecture-for-complex-polynomials/", "note": "Bull. London Math. Soc. 39 (2007) 781-791; record and abstract read"},
+  {"title": "Smale's mean value conjecture and the coefficients of univalent functions (Conte, Fujikawa, Lakic)", "url": "https://www.ams.org/proc/2007-135-10/S0002-9939-07-08861-2/", "note": "Proc. AMS 135 (2007) 3295-3300; cited from the Wikipedia reference list"},
+  {"title": "Smale's Mean Value Conjecture and Related Problems (T. W. Ng, talk slides)", "url": "https://staff.math.su.se/shapiro/IMLConference/Ng.pdf", "sha256": "eb360c4293396d255059a8d3116da14249cf93bd0aec8affa62cae5ed20da91c", "note": "survey of known cases and bounds; read with pdftotext"},
+  {"title": "Smale's Mean Value Conjecture and its Dual Conjecture for Complex Polynomials (Jatar, Ng)", "url": "https://arxiv.org/abs/2608.27047v1", "note": "preprint, 27 Aug 2026; abstract and introduction read"},
+  {"title": "Smale's Mean Value Conjecture in Degree Six: Certified Enclosures and a Cancellation Obstruction (Liu)", "doi": "10.5281/zenodo.22390113", "url": "https://zenodo.org/records/22390113", "license": "CC BY 4.0", "note": "preprint, not peer reviewed; record and abstract read"},
+  {"title": "On Smale's Mean Value Conjecture (Wang)", "url": "https://arxiv.org/abs/1703.06627v2", "note": "withdrawn by the author (error on page 10)"},
+  {"title": "A proof of Smale's mean value conjecture (Schmieder)", "url": "https://arxiv.org/abs/math/0206174v8", "note": "claimed proof, not accepted in later literature"},
+  {"title": "Mathematical exploration and discovery at scale (Georgiev, Gomez-Serrano, Tao, Wagner)", "url": "https://arxiv.org/abs/2511.02864v3", "note": "problem list run with AlphaEvolve; the Smale entry is cited by Jatar-Ng as Problem 6.23, not checked here"},
+  {"title": "Dual Smale's mean value conjecture for n=7 (Hinkkanen, Kayumov, Khammatova)", "url": "https://arxiv.org/abs/2303.17586", "note": "the dual problem, for contrast; abstract read"}
+]

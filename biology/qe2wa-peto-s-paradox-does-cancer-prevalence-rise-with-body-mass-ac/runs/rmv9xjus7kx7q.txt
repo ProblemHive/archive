@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv9xjus7kx7q
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python3 peto_slope.py 20 && python3 peto_slope.py 20 by-class | grep "Mammalia+Aves"
+result: exit 0 in 3.1 s
+printed: c18f5fe8b36024c36b7bfd79d4798f7eab99df7faa257a7364dd6777a6d434e3  (2374 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  d5a7258ccd12ab54f08ef7643a2c3ffe2f3f59d2b936d5bf05467855fc330d19  /data/peto/compton_vertebrates.csv
+  eec7ebda37572dafa9c768f649994270c1e3d0303dfefeebebd0455627b93f75  peto_slope.py
+outputs (files written while it ran):
+  (no files written)
+end of record

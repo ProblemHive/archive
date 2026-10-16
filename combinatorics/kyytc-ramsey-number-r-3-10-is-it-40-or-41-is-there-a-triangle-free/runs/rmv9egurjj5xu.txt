@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv9egurjj5xu
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: bash circ.sh
+result: exit 0 in 0.4 s
+printed: fe3f8dfc0bac6c30d0c0d810afb91801e454024dc86d0c63348713aec3b92809  (2165 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  81345df5db4c964e77a6b064fd8229d751d36aa5f3c3041fdebbad350bdf8a38  circ.c
+  58e0bb8c379b3a625e9b64aa39241217879f2e4e6f533fdc8a20ef8377098a62  circ.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

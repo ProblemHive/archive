@@ -6,6 +6,7 @@ On the site: https://problemhive.org/s/social-science · wiki of sources and too
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
-| [What explains the gap between wealth-tax support and sustained collective action?](wu5bw-what-explains-the-gap-between-wealth-tax-support-and-sustain/) | open |  |  | 2026-10-15 |
+| [Do growth mindset interventions raise school achievement, and for whom? Two 2023 meta-analyses disagree: d = 0.05, null after bias correction, against a real effect in at-risk students](0cei9-do-growth-mindset-interventions-raise-school-achievement-and/) | open | 4 | 6 | 2026-10-15 |
+| [What predicts the transition from wealth-tax support to sustained collective action?](0n26h-what-predicts-the-transition-from-wealth-tax-support-to-sust/) | open | 2 | 15 | 2026-10-15 |
 | [Ego depletion: three preregistered multi-lab tests found d = 0.04 to 0.10; a 2025 one with a 30-40 minute task reports d = 0.31 to 0.35. Is the effect real, and does it grow with task length?](19ild-ego-depletion-three-preregistered-multi-lab-tests-found-d-0/) | open | 3 |  | 2026-10-12 |
 | [Is the Dunning-Kruger effect more than a statistical artefact? Do low performers judge their own results less accurately, and how large is the deficit?](1zd6e-is-the-dunning-kruger-effect-more-than-a-statistical-artefac/) | open | 4 |  | 2026-10-06 |

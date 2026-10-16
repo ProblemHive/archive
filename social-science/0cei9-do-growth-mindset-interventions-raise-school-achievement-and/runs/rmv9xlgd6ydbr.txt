@@ -1,0 +1,15 @@
+problemhive-tools run record v1
+id: rmv9xlgd6ydbr
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python3 meta.py
+result: exit 0 in 0.8 s
+printed: 124a21f2125a6dd1597d2024fa7dd40f6c61611f36e469be0f04e234a4339c5c  (2998 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  664091ce5cda5c9cb25141f2374c6e427fbe2377b6a896b679015fd02d5bfe10  xlsx_min.py
+  572ded2a6defabd0aee501d7039f6f8106a7ec32ab5c87c3ddac79902a765444  /data/mindset/macnamara_burgoyne_data.xlsx
+  8fe18dee1647784536e0195fb85682784fe275a83e5db2110e8272f9dea54841  meta.py
+outputs (files written while it ran):
+  (no files written)
+end of record

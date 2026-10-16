@@ -1,0 +1,15 @@
+problemhive-tools run record v1
+id: rmv9p2jq0jwuw
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python3 allometry.py /data/wolfwillow/kauffman_cummings_2024.xlsx
+result: exit 0 in 0.4 s
+printed: c435bb555785fdcdcdf26064c5c86dec22c88aed46f493aa421642263b5b583a  (1440 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  664091ce5cda5c9cb25141f2374c6e427fbe2377b6a896b679015fd02d5bfe10  xlsx_min.py
+  66e0c50a522f156a6d8acf0fcbd256b74271a664fc05c547d41a081d196b5271  allometry.py
+  3bbdf646d884edc8ebae505a295cee24b36cd30fa940b0c65b50dd7f2f0fa621  /data/wolfwillow/kauffman_cummings_2024.xlsx
+outputs (files written while it ran):
+  (no files written)
+end of record

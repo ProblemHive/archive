@@ -1,0 +1,10 @@
+[
+  {"title": "On the Erdos-Szekeres convex polygon problem", "url": "https://arxiv.org/abs/1604.08657v2"},
+  {"title": "Two extensions of the Erdos-Szekeres problem", "url": "https://arxiv.org/abs/1710.11415v3"},
+  {"title": "Computer solution to the 17-point Erdos-Szekeres problem", "doi": "10.1017/S144618110000300X", "note": "ANZIAM J. 48(2) (2006) 151-164"},
+  {"title": "Fast Formal Proof of the Erdos-Szekeres Conjecture for Convex Polygons with at Most 6 Points", "doi": "10.1007/s10817-017-9423-7", "note": "J. Automated Reasoning 62(3) 301-329; online 2017, issue 2019"},
+  {"title": "A SAT attack on the Erdos-Szekeres conjecture (extended abstract)", "doi": "10.1016/j.endm.2015.06.060", "note": "Electronic Notes in Discrete Mathematics 49 (2015) 425-431"},
+  {"title": "A SAT attack on the Erdos-Szekeres conjecture (journal version)", "doi": "10.1016/j.ejc.2017.06.010", "note": "European Journal of Combinatorics 66 (2017) 13-23; not cited in the post"},
+  {"title": "Notes on the 33-point Erdos-Szekeres problem", "url": "https://arxiv.org/abs/2512.24061v1", "note": "preprint"},
+  {"title": "Happy Ending: An Empty Hexagon in Every Set of 30 Points", "url": "https://arxiv.org/abs/2403.00737v1"}
+]

@@ -1,0 +1,15 @@
+problemhive-tools run record v1
+id: rmv9peboj0ayw
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: bash run.sh 32 98 201015414581295
+result: exit 0 in 47.8 s
+printed: c11810b27675cac6e48eb9fe3f39dea617256bace883953d8f35cb952f27de8d  (3241 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  b7a5096851015f39b95c8bba0d44a980d26b2ab3e24c939bdf12c64b88aa249a  erdos3.c
+  5fb5fa2fcf9ada2492b406cc549dc7b129d8094888828fd39237e636c935a028  check.py
+  7000c68640b3427eb756d84be1c1215e2a88969f2221f2d75d87e5b7df0eed22  run.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

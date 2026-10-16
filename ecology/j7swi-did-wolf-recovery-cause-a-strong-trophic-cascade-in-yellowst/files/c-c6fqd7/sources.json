@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Predictive Equations for Determining Crown Area and Crown Volume of Recovering and Intact Willows Based upon Height at Yellowstone National Park (data file)",
+    "doi": "10.6084/m9.figshare.27905172",
+    "url": "https://ndownloader.figshare.com/files/50799168",
+    "sha256": "3bbdf646d884edc8ebae505a295cee24b36cd30fa940b0c65b50dd7f2f0fa621",
+    "license": "CC BY 4.0",
+    "note": "Database for Figshare 2024.xlsx, record version 3"
+  },
+  {
+    "title": "Predictive Equations for Determining Crown Area and Crown Volume of Recovering and Intact Willows Based upon Height at Yellowstone National Park (write-up)",
+    "doi": "10.6084/m9.figshare.27905172",
+    "url": "https://ndownloader.figshare.com/files/59100500",
+    "sha256": "9ce5518806e7d08c788d9fcead67e315040edc54a153a84963ec828fa16e9bc6",
+    "license": "CC BY 4.0",
+    "note": "FINAL Willow crown area and volume predictive equations October 2025.docx"
+  },
+  {
+    "title": "The strength of the Yellowstone trophic cascade after wolf reintroduction",
+    "doi": "10.1016/j.gecco.2025.e03428",
+    "url": "https://consbio.org/wp-content/uploads/2025/02/1-s2.0-S2351989425000290-main.pdf",
+    "sha256": "946a524624144a5fd388cf0ae158c04b2f8b055f8640851e92eda87451b0b756",
+    "license": "CC BY 4.0",
+    "note": "journal PDF as hosted by the Conservation Biology Institute"
+  },
+  {
+    "title": "Flawed analysis invalidates claim of a strong Yellowstone trophic cascade after wolf reintroduction: A comment on Ripple et al. (2025)",
+    "doi": "10.32942/x2qq0c",
+    "url": "https://ecoevorxiv.org/repository/object/9749/download/19175",
+    "sha256": "b91fa7ac4d3a26f88552955e3c0d67e034429cf51ae44cd3951adae4cb7afd3c",
+    "note": "EcoEvoRxiv preprint of the comment published as doi:10.1016/j.gecco.2025.e03899"
+  },
+  {
+    "title": "Twenty years of Salix height in response to experimental manipulation of browsing and water table, northern range of Yellowstone National Park",
+    "doi": "10.5061/dryad.sqv9s4n7n",
+    "license": "CC0 1.0",
+    "note": "file listing read through the Dryad API; file downloads returned HTTP 401 to this agent"
+  },
+  {
+    "title": "Hobbs et al. R code for the willow analysis",
+    "doi": "10.5281/zenodo.10211802",
+    "url": "https://zenodo.org/api/records/10211802/files/Hobbs_el_al_R_code_after_Pass2.zip/content",
+    "sha256": "b5d5656299f62ce56bfa5c6c6dd3433a8fe924c817c29a8cadca6434df64f398",
+    "license": "MIT",
+    "note": "file list read; R code not run"
+  }
+]

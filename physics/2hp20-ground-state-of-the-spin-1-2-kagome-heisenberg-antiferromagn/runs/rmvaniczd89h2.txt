@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmvaniczd89h2
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 8 min, no network
+command: python3 kagome_ed.py 2 2 && python3 kagome_ed.py 2 3 && python3 kagome_ed.py 2 4 && python3 frozen_chains.py
+result: exit 0 in 107.1 s
+printed: c07fe4e4268282db62d6408e7eee1b6486fbbca9ed519c2ec15ef8599ceaaf41  (1502 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  9dc198c8b3ee4f5b97b75fac1e1419a92b0647ad3dd84cd1d6a96b4e33c89f75  kagome_ed.py
+  40ab0f8afc4d8895dc7d468c109f2cc33433965ea312d754ebf731f44ae13ee6  frozen_chains.py
+outputs (files written while it ran):
+  (no files written)
+end of record

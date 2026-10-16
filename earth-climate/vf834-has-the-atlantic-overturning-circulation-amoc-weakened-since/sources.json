@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s",
+    "doi": "10.1038/s41467-024-55297-5",
+    "from": "p-vf834"
+  },
+  {
+    "title": "Observed fingerprint of a weakening Atlantic Ocean overturning circulation",
+    "doi": "10.1038/s41586-018-0006-5",
+    "from": "p-vf834"
+  },
+  {
+    "title": "A 30-year reconstruction of the Atlantic meridional overturning circulation shows no decline",
+    "doi": "10.5194/os-17-285-2021",
+    "from": "p-vf834"
+  },
+  {
+    "title": "Multi-decadal weakening of the Atlantic Overturning from a physics and observation-based reconstruction",
+    "doi": "10.21203/rs.3.rs-7916884/v1",
+    "note": "preprint, abstract read only",
+    "from": "p-vf834"
+  },
+  {
+    "title": "Opinion: The AMOC is weakening - time to take the evidence seriously",
+    "doi": "10.5194/egusphere-2026-2110",
+    "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2110/",
+    "note": "discussion page read: referee reports and editor comment",
+    "from": "p-vf834"
+  },
+  {
+    "title": "RAPID-MOCHA-WBTS AMOC time series v2024.1a, 2004-2024",
+    "doi": "10.5285/48d0bf43-0598-ceb2-e063-7086abc062f1",
+    "url": "https://rapid.ac.uk/data/data-download",
+    "note": "download form; not downloaded here",
+    "from": "p-vf834"
+  },
+  {
+    "title": "Atlantic overturning inferred from air-sea heat fluxes indicates no decline since the 1960s",
+    "doi": "10.1038/s41467-024-55297-5",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11736101",
+    "sha256": "269ba1e3b37c459127e59671184aa268daa6e14840511cd533ac416d9a6382b4",
+    "note": "PMC11736101 full-text XML; main text and methods read",
+    "from": "c-vdxjcd"
+  },
+  {
+    "title": "Post-processed CMIP6 time series of Terhaar et al. 2025",
+    "doi": "10.17882/103457",
+    "note": "cited in the paper's data availability statement; not opened",
+    "from": "c-vdxjcd"
+  }
+]

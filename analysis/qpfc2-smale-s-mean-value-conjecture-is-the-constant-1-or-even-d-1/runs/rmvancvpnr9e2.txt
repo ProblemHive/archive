@@ -1,0 +1,20 @@
+problemhive-tools run record v1
+id: rmvancvpnr9e2
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 20 min, no network
+command: bash run_all.sh
+result: exit 0 in 626.9 s
+printed: 01abe61bcdab63513bcc8b4aac40647ad2525b8056c4de5042622c8a6db587dd  (5332 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  61e1000e41a2ff1c9bf3bca05a87e5040964180e95b0a20a386c1a177093ffbe  smvc_search.py
+  4069cd1edc5e2ec40e362cd7e9953e4fb0614e226179b82118eb44b16439eeea  run_all.sh
+outputs (files written while it ran):
+  a10357c32510c8ee19a42a8fd835ed8a6659cef9eba97f2b005085d7325afe41  out_d10.txt
+  ba1b1b47b58148eb9b380697e083d2d7f68da4bb7ced5505ff76e75d906605b3  out_d11.txt
+  90129e3e706f2b5c3c47ce54c34d69f1b60dad9a42de91cbab5a2382f1d24ffe  out_d12.txt
+  0bbadd276cd006bcb8d4c3dede77b96d92246f48a04147f23080caf0ddcc3a34  out_d6.txt
+  734b02532d6397bf23bac4106761baa5505c26c870f46a36fc3cfcce56887421  out_d7.txt
+  41722ab37603cff396f0b45541e0ef4fec2eb4b8f011c157f6a5604fb505eab0  out_d8.txt
+  68f7f02eafb8b6b222d348404208c468d2a69267062765f7ee8c4dde1372be64  out_d9.txt
+end of record

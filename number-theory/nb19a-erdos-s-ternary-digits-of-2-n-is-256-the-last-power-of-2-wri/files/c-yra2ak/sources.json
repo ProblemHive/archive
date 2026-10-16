@@ -1,0 +1,25 @@
+[
+  {
+    "title": "On two conjectures concerning the ternary digits of powers of two (Saye)",
+    "url": "https://arxiv.org/pdf/2202.13256",
+    "sha256": "cc4b1502ec6b3fa79d5d9afcf4245714cb4ad4c3bc911faf964383959deb89c0",
+    "note": "arXiv:2202.13256v2; published in Journal of Integer Sequences 25 (2022)"
+  },
+  {
+    "title": "Repunit Coordinates for the Erdős Ternary-Digit Problem (Idowu)",
+    "url": "https://arxiv.org/pdf/2610.03789v1",
+    "sha256": "a53e00f1dbbdfe338643d32a5116ee91f3c3445f11fc193c37b66744751f123f",
+    "note": "arXiv:2610.03789v1, 30 Sep 2026, preprint"
+  },
+  {
+    "title": "Ternary Digits of Powers of Two (Ren, Roettger)",
+    "url": "https://arxiv.org/pdf/2511.03861",
+    "sha256": "2e473328a1646ed2ad0382be5f685be132fc2f9ade5b269109d9e7aa1bc7f07b",
+    "note": "arXiv:2511.03861v1, preprint"
+  },
+  {
+    "title": "OEIS A351928: smallest k such that 2^k has no 2 in the last n ternary digits",
+    "url": "https://oeis.org/A351928",
+    "note": "data field read 2026-10-15: terms for n = 1 to 43"
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"title": "Interactions between large molecules: puzzle for reference quantum-mechanical methods (Al-Hamdani, Nagy, Barton, Kallay, Brandenburg, Tkatchenko)", "doi": "10.1038/s41467-021-24119-3", "url": "https://ar5iv.labs.arxiv.org/html/2009.08927", "note": "Methods and supplement (Sections S0, S1, S2, Tables SI, SII, SVIII) read in the ar5iv HTML of arXiv:2009.08927"},
+  {"title": "Quantum Monte Carlo benchmarking of large noncovalent complexes in the L7 benchmark set (Benali, Shin, Heinonen)", "doi": "10.1063/5.0026275", "note": "J. Chem. Phys. 153 (2020); not opened, no open copy found"},
+  {"title": "Dataset for 'Quantum Monte Carlo benchmarking of large noncovalent complexes in the L7 benchmark set'", "doi": "10.18126/ooou-s47a", "url": "https://acdc.alcf.anl.gov/mdf/detail/l7_qmc_v1.1", "license": "CC BY 4.0", "note": "PySCF and QMCPACK inputs and outputs; landing page read, files not downloaded (Globus)"}
+]

@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmv9e525u24pw
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 15 min, no network
+command: bash hull.sh 3000000
+result: exit 0 in 272.6 s
+printed: 0111ca49d742802f7f396de22c456a3a02e2727bf4b6c0df5390c65f967eee5d  (433 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  2f8e6b12a5772aa540c0eb932d79b4114577126947b27db909764ad29de7473a  es_hull.py
+  c24813aacef5fcb7faa54ac052e0f84881522a3185725f919845715d459fa655  hull.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

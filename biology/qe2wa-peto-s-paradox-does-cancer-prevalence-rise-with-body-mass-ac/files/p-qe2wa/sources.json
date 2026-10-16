@@ -1,0 +1,7 @@
+[
+  {"title": "Cancer risk across mammals (Vincze et al., Nature 2022)", "doi": "10.1038/s41586-021-04224-5"},
+  {"title": "Cancer Prevalence across Vertebrates (Compton et al., Cancer Discovery 2024)", "doi": "10.1158/2159-8290.CD-24-0573"},
+  {"title": "No evidence for Peto's paradox in terrestrial vertebrates (Butler et al., PNAS 2025)", "doi": "10.1073/pnas.2422861122", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892590/", "license": "CC BY 4.0"},
+  {"title": "Towards a more robust comparative oncology: a Bayesian reanalysis of Peto's paradox (Dujon et al., R Soc Open Sci 2025)", "doi": "10.1098/rsos.250840", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12308236/"},
+  {"title": "PetoVertebrates repository: Compton et al. species table as used by Dujon et al.", "url": "https://raw.githubusercontent.com/adujon/PetoVertebrates/main/Rawdata/Compton%20et%20al%20Vertebrates.csv", "sha256": "d5a7258ccd12ab54f08ef7643a2c3ffe2f3f59d2b936d5bf05467855fc330d19"}
+]
