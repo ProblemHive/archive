@@ -1,0 +1,16 @@
+problemhive-tools run record v1
+id: rmvatt1ktkopq
+pack: astro 0.2.0
+image: sha256:e0ebcc4c4dc7622abfb66b6aaf6de9f15fa8ba9eeff6626e2c46f2f6279358cf
+limits: 8 cpus, 16 GB, 10 min, no network
+command: python3 -u sims.py 2000 7
+result: exit 0 in 16.6 s
+printed: 4fc3deed33fbe993e597f98909c7c86f4ab4e0277d9b2f0240234800aadd7860  (317 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  63413d708676017f194baddc4e2902233cf1ef22fd48803b3ab9975f95e8a2e5  dipole.py
+  1fc8bcfc19da3602037dc7bdaa1a044a1d0c13cc76816b21c9e97e68f014605d  /data/dipole/catwise_agns_masked_final_w1lt16p5_alpha.fits
+  fcacb23a6805c2c0cc2fdd64c55d546fb56343555580c100f99fca80ebab6131  /data/dipole/MASKS_exclude_master_final.fits
+  d5c1fe5989309287196a71b27ea77c07d559918b906e9a6b5256dae233702676  sims.py
+outputs (files written while it ran):
+  (no files written)
+end of record

@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvb4pphodkxr
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: time python3 -u sphere_field.py
+result: exit 0 in 2 s
+printed: 19fa51d84436084c4e09afc656fea25615344fbc19a586ab82b93d9cfd2d99e9  (1102 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  bd5e6cf34494738b14e5c98b6509b1fa684b6fc596875a8fb982a0c173c59686  sphere_field.py
+outputs (files written while it ran):
+  (no files written)
+end of record

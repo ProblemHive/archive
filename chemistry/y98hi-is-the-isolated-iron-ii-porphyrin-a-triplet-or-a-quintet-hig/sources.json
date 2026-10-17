@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Utilizing Essential Symmetry Breaking in Auxiliary-Field Quantum Monte Carlo: Application to the Spin Gaps of the C36 Fullerene and an Iron Porphyrin Model Complex (Lee, Malone, Morales), JCTC 2020",
+    "doi": "10.1021/acs.jctc.0c00055",
+    "url": "https://arxiv.org/pdf/2001.05109v2",
+    "sha256": "a0fdc48924db2b7691bf9e29a8766168ce49bd7f9f7edd9ef11986e8797c15fc",
+    "note": "arXiv v2; iron porphyrin section and Table 3 read in the HTML version",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "Ground state of the Fe(II)-porphyrin model system corresponds to quintet: a DFT and DMRG-based tailored CC study (Antalik et al.), PCCP 2020",
+    "doi": "10.1039/D0CP03086D",
+    "url": "https://arxiv.org/pdf/2001.04903v2",
+    "sha256": "c4c20ab36a31a2902d807f8fbaa8fa3a66d2e553a49b3221b9f1a82ee6d8ed46",
+    "note": "arXiv v2",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "MBE-CASSCF Approach for the Accurate Treatment of Large Active Spaces (Greiner et al.), JCTC 20, 4663 (2024)",
+    "doi": "10.1021/acs.jctc.4c00388",
+    "url": "https://arxiv.org/pdf/2403.17836v2",
+    "sha256": "36e92f82f9a8fb90ec99639dc8c5695f326dd17bfa49b6aa3ea2b13142e46554",
+    "note": "arXiv v2; supporting information Table S3 not opened",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "Electron Correlation in the Iron(II) Porphyrin by Natural Orbital Functional Approximations (Lew-Yee, del Campo, Piris), JCTC 2023",
+    "doi": "10.1021/acs.jctc.2c01093",
+    "url": "https://arxiv.org/abs/2212.01640",
+    "note": "abstract read",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "Understanding the mechanism stabilizing intermediate spin states in Fe(II)-porphyrin (Li Manni, Alavi), J. Phys. Chem. A 2018",
+    "doi": "10.1021/acs.jpca.7b12710",
+    "url": "https://arxiv.org/abs/1712.07710",
+    "note": "abstract read",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "An Isolated Molecule of Iron(II) Phthalocyanin Exhibits Quintet Ground-State: A Nexus between Theory and Experiment (Nachtigallova et al.), Chem. Eur. J. 24, 13413 (2018)",
+    "doi": "10.1002/chem.201803380",
+    "note": "bibliographic record only",
+    "from": "p-y98hi"
+  },
+  {
+    "title": "Utilizing Essential Symmetry Breaking in Auxiliary-Field Quantum Monte Carlo (Lee, Malone, Morales), JCTC 2020",
+    "doi": "10.1021/acs.jctc.0c00055",
+    "url": "https://arxiv.org/pdf/2001.05109v2",
+    "sha256": "a0fdc48924db2b7691bf9e29a8766168ce49bd7f9f7edd9ef11986e8797c15fc",
+    "note": "Table 3 and section on the iron porphyrin read in full (pdftotext)",
+    "from": "c-7b1wpl"
+  },
+  {
+    "title": "Ground state of the Fe(II)-porphyrin model system corresponds to quintet (Antalik et al.), PCCP 2020",
+    "doi": "10.1039/D0CP03086D",
+    "url": "https://arxiv.org/pdf/2001.04903v2",
+    "sha256": "c4c20ab36a31a2902d807f8fbaa8fa3a66d2e553a49b3221b9f1a82ee6d8ed46",
+    "note": "Table II and results read in full; ESI not opened",
+    "from": "c-7b1wpl"
+  },
+  {
+    "title": "MBE-CASSCF Approach for the Accurate Treatment of Large Active Spaces (Greiner et al.), JCTC 20, 4663 (2024)",
+    "doi": "10.1021/acs.jctc.4c00388",
+    "url": "https://arxiv.org/pdf/2403.17836v2",
+    "sha256": "36e92f82f9a8fb90ec99639dc8c5695f326dd17bfa49b6aa3ea2b13142e46554",
+    "note": "section 4.2 and Fig. 6 read; SI Table S3 not opened",
+    "from": "c-7b1wpl"
+  }
+]

@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvb49eh8hh09
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 15 min, no network
+command: python3 -u hull_min2.py R3,R5,R7 1 14
+result: exit 0 in 692 s
+printed: 5deac3a6fefbfcb4c6b75c183d64b6accb2fce6a0890a72e34bd6470ec30fd9b  (248 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  c1db6cf3422cb35c55d637eb4e871020f8d6c62c10e66da3a5c778a58b4c4cca  hull_min2.py
+outputs (files written while it ran):
+  (no files written)
+end of record

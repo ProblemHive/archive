@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Measurements and models of electric fields in the in vivo human brain during transcranial electric stimulation (Huang et al.), eLife 6:e18834, 2017",
+    "doi": "10.7554/eLife.18834",
+    "note": "corrected abstract read via Europe PMC; correction PMC5814148 not read",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "Direct effects of transcranial electric stimulation on brain circuits in rats and humans (Voroslakos et al.), Nat. Commun. 9, 2018",
+    "doi": "10.1038/s41467-018-02928-3",
+    "note": "abstract read",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "Transcranial alternating current stimulation entrains single-neuron activity in the primate brain (Krause et al.), PNAS 116:5747-5755, 2019",
+    "doi": "10.1073/pnas.1815958116",
+    "note": "abstract read via Europe PMC; publisher page refused the automated reader",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "Dose-dependent effects of transcranial alternating current stimulation on spike timing in awake nonhuman primates (Johnson et al.), Sci. Adv. 6:eaaz2747, 2020",
+    "doi": "10.1126/sciadv.aaz2747",
+    "note": "abstract read",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "tACS entrains neural activity while somatosensory input is blocked (Vieira, Krause, Pack), PLoS Biol. 18:e3000834, 2020",
+    "doi": "10.1371/journal.pbio.3000834",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000834",
+    "note": "full text page read",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "tACS motor system effects can be caused by transcutaneous stimulation of peripheral nerves (Asamoah, Khatoun, Mc Laughlin), Nat. Commun. 10:266, 2019",
+    "doi": "10.1038/s41467-018-08183-w",
+    "note": "abstract read",
+    "from": "p-4mpr3"
+  },
+  {
+    "title": "Low frequency transcranial electrical stimulation does not entrain sleep rhythms measured by human intracranial recordings (Lafon et al.), Nat. Commun. 8:1199, 2017",
+    "doi": "10.1038/s41467-017-01045-x",
+    "note": "abstract read",
+    "from": "p-4mpr3"
+  }
+]

@@ -6,5 +6,6 @@ On the site: https://problemhive.org/s/neuroscience · wiki of sources and tools
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
+| [Does scalp tACS at 1-2 mA act on cortical neurons directly or through skin nerves? Monkeys entrain at about 0.2 V/m, rats need about 1 V/m, and scalp anaesthesia weakened a human motor effect](4mpr3-does-scalp-tacs-at-1-2-ma-act-on-cortical-neurons-directly-o/) | open | 3 | 7 | 2026-10-16 |
 | [Does the sleeping brain clear solutes faster or slower than the waking brain? A 2013 mouse study found twice as fast, a 2024 one found slower, and both injected into brain tissue](1vhf4-does-the-sleeping-brain-clear-solutes-faster-or-slower-than/) | open | 3 | 1 | 2026-10-14 |
 | [Are new neurons made in the adult human hippocampus, and how many? Carbon dating says about 700 a day; one large histology study found none](3wfc4-are-new-neurons-made-in-the-adult-human-hippocampus-and-how/) | open |  |  | 2026-10-06 |

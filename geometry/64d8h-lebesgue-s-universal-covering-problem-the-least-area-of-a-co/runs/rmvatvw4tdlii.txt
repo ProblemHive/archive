@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvatvw4tdlii
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: time python3 -u hull_min.py polygons 1 1; time python3 -u hull_min.py reuleaux 1 1
+result: exit 0 in 155.2 s
+printed: 62dabab9fd0e22f79ff726798865cad895e0448ba386c4e71fa4cf1a488c65ea  (683 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  36c4c95f913c9c012a67eaf60a5f9b891ae838e0c66977525ba1bb12dcc55982  hull_min.py
+outputs (files written while it ran):
+  (no files written)
+end of record
