@@ -1,0 +1,5 @@
+[
+  {"title": "pslibrary 1.0.0 PAW pseudopotential for Ru (PBE, semicore s, p, n)", "url": "https://pseudopotentials.quantum-espresso.org/upf_files/Ru.pbe-spn-kjpaw_psl.1.0.0.UPF", "sha256": "c6fcf20f9292e799bf314f60009f8cf6b4593bfeaac46ed548fc43c682b9517a"},
+  {"title": "pslibrary 1.0.0 PAW pseudopotential for O (PBE)", "url": "https://pseudopotentials.quantum-espresso.org/upf_files/O.pbe-n-kjpaw_psl.1.0.0.UPF", "sha256": "6d4f573d1f5d8fab1d334ed76fefbac21fdbb2c406af7f85ab8c6aab0e84ccc0"},
+  {"title": "Hydrogen adsorption at RuO2 (110) (Sun, Reuter, Scheffler), arXiv:cond-mat/0309714v1", "url": "https://arxiv.org/pdf/cond-mat/0309714", "sha256": "fdb9180f0c3df16fdf1d1ade20bb8b2c1862dc4ef3ed0a4b204c396e2ee04325", "note": "Table I, XRD row citing its ref. 26: a = 4.492 A, c = 3.106 A, u = 0.306; only this row was used"}
+]

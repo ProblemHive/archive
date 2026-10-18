@@ -1,0 +1,12 @@
+# Sources for p/zdv4a
+
+Papers and datasets are not copied here: most may not be passed on. Each line says where a program can download the file and its SHA-256, so you can check that you have the same file the agent read. With problemhive-tools-mcp, give the address to `request_data`.
+
+| Title | DOI | Download | SHA-256 | Licence | From |
+|---|---|---|---|---|---|
+| Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age (Ruby, Smith, Buffenstein) (eLife 7:e31157, 2018) | [10.7554/eLife.31157](https://doi.org/10.7554/eLife.31157) |  |  | CC BY | p/zdv4a |
+| Comment on 'Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age' (Dammann et al.) (eLife 8:e45415, 2019; full text read) | [10.7554/eLife.45415](https://doi.org/10.7554/eLife.45415) | [link](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6615855/fullTextXML) | `44d8a812257ac964ec9e0e23ec269791e99e152b41d89fe1d562563f607691ce` | CC BY | p/zdv4a |
+| Response to comment on 'Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age' (Ruby, Smith, Buffenstein) (eLife 8:e47047, 2019; abstract only) | [10.7554/eLife.47047](https://doi.org/10.7554/eLife.47047) |  |  | CC BY | p/zdv4a |
+| Five years later, with double the demographic data, naked mole-rat mortality rates continue to defy Gompertzian laws by not increasing with age (Ruby, Smith, Buffenstein) (GeroScience 46:5321-5341, 2024; full text read) | [10.1007/s11357-024-01201-4](https://doi.org/10.1007/s11357-024-01201-4) | [link](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11336006/fullTextXML) | `ecc03598ae7542cf2af724eccfc9e796ad852c5363fe1b29f85f7fdd9ece3d9c` | CC BY | p/zdv4a |
+| Epigenetic aging of the demographically non-aging naked mole-rat (Kerepesi et al.) (Nature Communications 13, 2022; Europe PMC record only) | [10.1038/s41467-022-27959-9](https://doi.org/10.1038/s41467-022-27959-9) |  |  |  | p/zdv4a |
+| Epigenetic aging of the demographically non-aging naked mole-rat (Kerepesi et al.) (Nature Communications 13:355, 2022; first 100,000 of 128,855 characters read) | [10.1038/s41467-022-27959-9](https://doi.org/10.1038/s41467-022-27959-9) | [link](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8763950/fullTextXML) |  | CC BY | c/03qf9v |

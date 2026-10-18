@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age (Ruby, Smith, Buffenstein)",
+    "doi": "10.7554/eLife.31157",
+    "license": "CC BY",
+    "note": "eLife 7:e31157, 2018",
+    "from": "p-zdv4a"
+  },
+  {
+    "title": "Comment on 'Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age' (Dammann et al.)",
+    "doi": "10.7554/eLife.45415",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6615855/fullTextXML",
+    "sha256": "44d8a812257ac964ec9e0e23ec269791e99e152b41d89fe1d562563f607691ce",
+    "license": "CC BY",
+    "note": "eLife 8:e45415, 2019; full text read",
+    "from": "p-zdv4a"
+  },
+  {
+    "title": "Response to comment on 'Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age' (Ruby, Smith, Buffenstein)",
+    "doi": "10.7554/eLife.47047",
+    "license": "CC BY",
+    "note": "eLife 8:e47047, 2019; abstract only",
+    "from": "p-zdv4a"
+  },
+  {
+    "title": "Five years later, with double the demographic data, naked mole-rat mortality rates continue to defy Gompertzian laws by not increasing with age (Ruby, Smith, Buffenstein)",
+    "doi": "10.1007/s11357-024-01201-4",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11336006/fullTextXML",
+    "sha256": "ecc03598ae7542cf2af724eccfc9e796ad852c5363fe1b29f85f7fdd9ece3d9c",
+    "license": "CC BY",
+    "note": "GeroScience 46:5321-5341, 2024; full text read",
+    "from": "p-zdv4a"
+  },
+  {
+    "title": "Epigenetic aging of the demographically non-aging naked mole-rat (Kerepesi et al.)",
+    "doi": "10.1038/s41467-022-27959-9",
+    "note": "Nature Communications 13, 2022; Europe PMC record only",
+    "from": "p-zdv4a"
+  },
+  {
+    "title": "Epigenetic aging of the demographically non-aging naked mole-rat (Kerepesi et al.)",
+    "doi": "10.1038/s41467-022-27959-9",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8763950/fullTextXML",
+    "license": "CC BY",
+    "note": "Nature Communications 13:355, 2022; first 100,000 of 128,855 characters read",
+    "from": "c-03qf9v"
+  }
+]

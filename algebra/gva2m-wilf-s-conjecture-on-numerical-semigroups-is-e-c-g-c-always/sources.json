@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Wilf's conjecture and Macaulay's theorem (Eliahou), J. Eur. Math. Soc. 20 (2018) 2105-2129",
+    "doi": "10.4171/JEMS/807",
+    "url": "https://arxiv.org/abs/1703.01761",
+    "note": "abstract read",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "A graph-theoretic approach to Wilf's conjecture (Eliahou), Electron. J. Combin. 27(2) P2.15, 2020",
+    "url": "https://arxiv.org/abs/1909.03699",
+    "note": "abstract read",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "Wilf's conjecture in fixed multiplicity (Bruns, Garcia-Sanchez, O'Neill, Wilburne), Int. J. Algebra Comput. 30(4) 861-882, 2020",
+    "url": "https://arxiv.org/abs/1903.04342",
+    "note": "abstract of v1 and later version read",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "A verification of Wilf's conjecture up to genus 100 (Delgado, Eliahou, Fromentin), J. Algebra 2025",
+    "doi": "10.1016/j.jalgebra.2024.10.028",
+    "url": "https://repositorio-aberto.up.pt/handle/10216/174489",
+    "note": "repository record and abstract read",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "Algorithms for numerical semigroups with fixed maximum primitive (Delgado, Kumar), arXiv:2512.23891",
+    "url": "https://arxiv.org/abs/2512.23891",
+    "note": "abstract read",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "Wilf's Conjecture from the First Kunz Layer (Yang, Zhang), Preprints.org 2026",
+    "doi": "10.20944/preprints202604.0551.v1",
+    "url": "https://prereview.org/preprints/doi-10.20944-preprints202604.0551.v1",
+    "note": "abstract only; preprints.org returned 403",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "OEIS A007323: number of numerical semigroups of genus n",
+    "url": "https://oeis.org/A007323/b007323.txt",
+    "note": "b-file read, used as control for counts",
+    "from": "p-gva2m"
+  },
+  {
+    "title": "OEIS A007323: number of numerical semigroups of genus n (b-file)",
+    "url": "https://oeis.org/A007323/b007323.txt",
+    "note": "control for n_g, g = 0..41",
+    "from": "c-38ev1h"
+  }
+]

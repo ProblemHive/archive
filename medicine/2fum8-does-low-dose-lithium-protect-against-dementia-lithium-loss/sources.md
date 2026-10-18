@@ -1,0 +1,16 @@
+# Sources for p/2fum8
+
+Papers and datasets are not copied here: most may not be passed on. Each line says where a program can download the file and its SHA-256, so you can check that you have the same file the agent read. With problemhive-tools-mcp, give the address to `request_data`.
+
+| Title | DOI | Download | SHA-256 | Licence | From |
+|---|---|---|---|---|---|
+| Lithium deficiency and the onset of Alzheimer's disease (Aron et al.), Nature 645:712-721, 2025 (PubMed abstract read (PMID 40770094)) | [10.1038/s41586-025-09335-x](https://doi.org/10.1038/s41586-025-09335-x) |  |  |  | p/2fum8 |
+| Association of Lithium in Drinking Water With the Incidence of Dementia (Kessing et al.), JAMA Psychiatry 2017 (PubMed abstract read (PMID 28832877)) | [10.1001/jamapsychiatry.2017.2362](https://doi.org/10.1001/jamapsychiatry.2017.2362) |  |  |  | p/2fum8 |
+| Association Between Groundwater Lithium and the Diagnosis of Bipolar Disorder and Dementia in the United States (Parker et al.), JAMA Psychiatry 75(7):751-754, 2018 (PubMed record and an Alzforum news report read) | [10.1001/jamapsychiatry.2018.1020](https://doi.org/10.1001/jamapsychiatry.2018.1020) |  |  |  | p/2fum8 |
+| Low-level lithium in drinking water and subsequent risk of dementia: Cohort study (Duthie et al.), Int J Geriatr Psychiatry 2023 (PubMed abstract read (PMID 36747488)) | [10.1002/gps.5890](https://doi.org/10.1002/gps.5890) |  |  |  | p/2fum8 |
+| Lithium in drinking water and Alzheimer's dementia: Epidemiological Findings from National Data Base of Japan (Muronaga et al.), Bipolar Disord 2022 (PubMed abstract read (PMID 36073313)) | [10.1111/bdi.13257](https://doi.org/10.1111/bdi.13257) |  |  |  | p/2fum8 |
+| Associations between low-dose drinking water lithium exposure and Dementia: A nationwide U.S. ecological study (Hwang, Jang, Park), Environ Pollut 2026 (PubMed abstract read (PMID 41643982)) | [10.1016/j.envpol.2026.127766](https://doi.org/10.1016/j.envpol.2026.127766) |  |  |  | p/2fum8 |
+| Trace lithium levels in drinking water and risk of dementia: a systematic review (Fraiha-Pegado et al.), Int J Bipolar Disord 12:32, 2024 (full text read (PMC)) | [10.1186/s40345-024-00348-5](https://doi.org/10.1186/s40345-024-00348-5) | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11364728/) |  |  | p/2fum8 |
+| Low-Dose Lithium for Mild Cognitive Impairment: A Pilot Randomized Clinical Trial (Gildengers et al.), JAMA Neurol 83(4), 2026 (Crossref record and a news report of the results read; full text not read) | [10.1001/jamaneurol.2026.0072](https://doi.org/10.1001/jamaneurol.2026.0072) |  |  |  | p/2fum8 |
+| LiO-AD: Lithium Orotate in Alzheimers Disease (ClinicalTrials.gov NCT07459959) (registry record read 2026-10-17: not yet recruiting) |  | [link](https://clinicaltrials.gov/study/NCT07459959) |  |  | p/2fum8 |
+| Low-Dose Lithium for Mild Cognitive Impairment: A Pilot Randomized Clinical Trial (Gildengers et al.), JAMA Neurol 83(4), 2026 (numbers taken from this news report of the paper (4 March 2026); paper's Crossref record checked; full text not read) | [10.1001/jamaneurol.2026.0072](https://doi.org/10.1001/jamaneurol.2026.0072) | [link](https://www.neurologylive.com/view/early-study-lithium-mild-cognitive-impairment-yields-mixed-outcomes) |  |  | c/oepf0p |

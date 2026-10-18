@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Data Selection for ERMs (Hanneke, Moran, Shlimovich, Yehudayoff), arXiv:2504.14572v2",
+    "url": "https://arxiv.org/pdf/2504.14572v2",
+    "sha256": "bd8a14fc64b491e23f24333a91457c920296c907ea98b34d25a6c99d7e826c0e",
+    "note": "COLT 2025, PMLR 291; Theorem 1, Propositions 20 and 21",
+    "from": "p-a5f29"
+  },
+  {
+    "title": "Open Problem: Data Selection for Regression Tasks (Hanneke, Moran, Shlimovich, Yehudayoff), COLT 2025, PMLR 291",
+    "url": "https://raw.githubusercontent.com/mlresearch/v291/main/assets/hanneke25e/hanneke25e.pdf",
+    "sha256": "89830a72359785f2d714b51028be11ed6e0b13be4267aa65dc2b75b03b0e553a",
+    "note": "Question 1 and its table",
+    "from": "p-a5f29"
+  },
+  {
+    "title": "Exact Risk Ratios for Weighted Data Selection in Linear Regression (Zhang), arXiv:2608.28007",
+    "url": "https://arxiv.org/abs/2608.28007",
+    "note": "preprint; abstract only; the weighted regression question, not this one",
+    "from": "p-a5f29"
+  }
+]

@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmvdifb0wiusb
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: bash run40.sh
+result: exit 0 in 1225.4 s
+printed: 4409c346bf66574b6f963cff385088f659026868524531501b870479d3e28400  (1631 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  2725f3547c1c292979d7eefc14c0bc7d28a9f0b1bbb98f6e4d2deae2b7cae216  blockcirc.py
+  eb7f3cfccad2c06c93f30b6531067841d520bf8cd264c3cac66f46a7da05f3f5  run40.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

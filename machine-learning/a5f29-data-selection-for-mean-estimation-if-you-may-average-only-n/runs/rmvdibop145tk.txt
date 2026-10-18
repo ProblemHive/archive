@@ -1,0 +1,14 @@
+problemhive-tools run record v1
+id: rmvdibop145tk
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 20 min, no network
+command: time bash run_open.sh
+result: exit 0 in 413.1 s
+printed: fe6320d4d50a433a463eeaf15b2f8ad226121d2b7943c6d5945e5d67d1694cc4  (5441 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  353d861c3af77bf7b44a5a319c300bdc98d29bedcb2b8f80436465316561fbaf  ds_search.py
+  f3a90d12dac7c3b0278a1ce33cf2efce5137310b19a07aa5fb8878b4c0318b4f  run_open.sh
+outputs (files written while it ran):
+  (no files written)
+end of record

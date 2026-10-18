@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvcsi6a6785u
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python3 power.py
+result: exit 0 in 1.2 s
+printed: f789538f3fcc3a195d4165c6dee50ace4b7df2a2027791747f441b525f32522c  (1813 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  addd6c0b65c4264751f168acc67eafea2a2db3e7ab72372be704153710eadf14  power.py
+outputs (files written while it ran):
+  (no files written)
+end of record

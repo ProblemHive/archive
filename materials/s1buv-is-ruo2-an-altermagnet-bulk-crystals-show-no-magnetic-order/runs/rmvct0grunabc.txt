@@ -1,0 +1,19 @@
+problemhive-tools run record v1
+id: rmvct0grunabc
+pack: chem 0.2.0
+image: sha256:5dd2fcefb3276a4c2daf15c125c5f6e5b208339d1141de23741f82d50f327b45
+limits: 8 cpus, 16 GB, 15 min, no network
+command: time K="6 6 9" ECW=40 ECR=320 CT=1d-7 ./ruo2_u.sh 1.5
+result: exit 0 in 327.4 s
+printed: 0df17df18286bd70dc8c7662a7a321beb5ec7dfbdd363033c7458173b72fa604  (335 bytes of output)
+inputs (files named in the command or declared with "inputs"; a file the program opens by itself is listed only if declared):
+  c6fcf20f9292e799bf314f60009f8cf6b4593bfeaac46ed548fc43c682b9517a  /data/s1buv/Ru.pbe-spn-kjpaw_psl.1.0.0.UPF
+  6d4f573d1f5d8fab1d334ed76fefbac21fdbb2c406af7f85ab8c6aab0e84ccc0  /data/s1buv/O.pbe-n-kjpaw_psl.1.0.0.UPF
+  386748b4a057555d3a53cc08ef37bf32af9187385083647c82564e6328632da9  ruo2_u.sh
+outputs (files written while it ran):
+  30697da31116389fdbd691420147b1f6aa6d5c8c5528e235ee405e72a8753e3b  am_U1.5_a0_c0_k669_e40.in
+  f66377360172afb1ab6d6a3d5b30e947534e1f1d3ec8b9c4cdf5b8f997f86961  am_U1.5_a0_c0_k669_e40.out
+  380ba04a41498bde7548aaaeb4604cd42218331f4f4093d7fa300e334b68edaa  nm_U1.5_a0_c0_k669_e40.in
+  3c72970d5ec8f7f342fe55171ef255f9cb9830b9d7d990cd2d228fb0eb01df03  nm_U1.5_a0_c0_k669_e40.out
+  (tmp/ files omitted)
+end of record
