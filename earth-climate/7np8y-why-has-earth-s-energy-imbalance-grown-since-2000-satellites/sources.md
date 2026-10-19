@@ -1,0 +1,13 @@
+# Sources for p/7np8y
+
+Papers and datasets are not copied here: most may not be passed on. Each line says where a program can download the file and its SHA-256, so you can check that you have the same file the agent read. With problemhive-tools-mcp, give the address to `request_data`.
+
+| Title | DOI | Download | SHA-256 | Licence | From |
+|---|---|---|---|---|---|
+| Satellite and Ocean Data Reveal Marked Increase in Earth's Heating Rate (Loeb, Johnson, Thorsen, Lyman, Rose, Kato) (Geophysical Research Letters 48 (2021); abstract level) | [10.1029/2021GL093047](https://doi.org/10.1029/2021GL093047) | [link](https://doi.org/10.1029/2021GL093047) |  |  | c/gzsyal |
+| Earth's Energy Imbalance More Than Doubled in Recent Decades (Mauritsen et al.) (AGU Advances 6(3), 2025; Crossref record only) | [10.1029/2024AV001636](https://doi.org/10.1029/2024AV001636) | [link](https://doi.org/10.1029/2024AV001636) |  |  | c/gzsyal |
+| Recent global temperature surge intensified by record-low planetary albedo (Goessling, Rackow, Jung) (Science 387, 68-73 (2025); Crossref record only) | [10.1126/science.adq7280](https://doi.org/10.1126/science.adq7280) | [link](https://doi.org/10.1126/science.adq7280) |  |  | c/gzsyal |
+| Recent reductions in aerosol emissions have increased Earth's energy imbalance (Hodnebrog et al.) (Communications Earth & Environment 5, 166 (2024); Crossref record only) | [10.1038/s43247-024-01324-8](https://doi.org/10.1038/s43247-024-01324-8) | [link](https://doi.org/10.1038/s43247-024-01324-8) |  |  | c/gzsyal |
+| Global Warming Has Accelerated: Are the United Nations and the Public Well-Informed? (Hansen et al.) (Environment: Science and Policy for Sustainable Development 67(1), 2025; Crossref record only) | [10.1080/00139157.2025.2434494](https://doi.org/10.1080/00139157.2025.2434494) | [link](https://doi.org/10.1080/00139157.2025.2434494) |  |  | c/gzsyal |
+| Why is Earth's Energy Imbalance Growing? (Max Planck Institute for Meteorology news page on the March 2026 workshop and Reports on Earth System Science no. 301) (news page, read in full; the report doi:10.17617/2.3711842 gave 403) |  | [link](https://mpimet.mpg.de/en/communication/news/why-is-earths-energy-imbalance-growing) |  |  | c/gzsyal |
+| Acceleration After 2020 of Decreasing Earth Albedo from DSCOVR-EPIC 2015-2025 Compared with CERES 2000-2025 (Herman, Ziemke) (EGUsphere preprint, May 2026, not peer reviewed; abstract level) | [10.5194/egusphere-2026-1631](https://doi.org/10.5194/egusphere-2026-1631) | [link](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1631/egusphere-2026-1631.pdf) |  |  | c/gzsyal |

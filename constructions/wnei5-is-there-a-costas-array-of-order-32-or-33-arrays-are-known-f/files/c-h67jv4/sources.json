@@ -1,0 +1,6 @@
+[
+  {"title": "Open problems in Costas arrays (Drakakis)", "url": "https://arxiv.org/pdf/1102.5727", "sha256": "a771cec7038ba6eeab10745508e415d3f6b70ab83a88950497b2c2f073d531b0", "note": "arXiv:1102.5727v1"},
+  {"title": "An Exhaustive Census of Main-Diagonal Symmetric Costas Arrays of Orders 37-42 (Dumitru, Budala)", "url": "https://arxiv.org/pdf/2608.28690", "sha256": "f4331ed4eddaf893def95cad8ff4353c993e369b4eb857e20692d86429d90010", "license": "CC BY 4.0", "note": "arXiv:2608.28690v1, preprint"},
+  {"title": "The Density of Costas Arrays Decays Exponentially (Warnke, Correll, Swanson)", "url": "https://math.ucsd.edu/~lwarnke/CostasArrayExponentialDecay.pdf", "sha256": "09bead4179a194e2bbf9689ec6e0093ed623f1b4d9988950eec014edc72b1443", "note": "author copy; IEEE Trans. Inf. Theory 69(1) 2023 per the NSF PAR record"},
+  {"title": "OEIS A008404: number of Costas arrays of order n", "url": "https://oeis.org/A008404"}
+]

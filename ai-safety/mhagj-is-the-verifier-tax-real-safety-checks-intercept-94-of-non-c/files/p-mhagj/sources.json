@@ -1,0 +1,4 @@
+[
+  {"title": "The Verifier Tax: Horizon-Dependent Safety-Success Tradeoffs in Tool-Using LLM Agents", "url": "https://arxiv.org/pdf/2603.19328", "sha256": "96cef1da0e9ee9de44ee2e073979b36991c21686ee0f5837bfcd4868002e1ead", "note": "text and Table 1 read; appendix only skimmed"},
+  {"title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement", "url": "https://arxiv.org/pdf/2608.14590", "sha256": "a4bb43f73942abc662d543c8e8ff8af0057a0a778e14e297870b011c93f173b6", "note": "sections 6.3, 7.3, GRADE table read"}
+]

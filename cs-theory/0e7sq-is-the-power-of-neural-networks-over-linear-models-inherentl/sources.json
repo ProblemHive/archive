@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Invited Open Problem: Is the Power of Deep Learning over Linear Models Inherently Distribution Dependent? (Feldman, Kamath, Srebro), COLT 2026, PMLR 336:7117-7122",
+    "url": "https://proceedings.mlr.press/v336/feldman26a.html",
+    "sha256": "4ffb9efc67addb7e3cade9b73f8d4f0441c5d3538ddca07643c331be876b6d70",
+    "note": "full 6 pages read",
+    "from": "p-0e7sq"
+  },
+  {
+    "title": "VALG: An Agentic System for ML Theory Research",
+    "url": "https://arxiv.org/pdf/2608.13060",
+    "note": "search snippet only; restates the problem as open",
+    "from": "p-0e7sq"
+  },
+  {
+    "title": "The Power of Random Features and the Limits of Distribution-Free Gradient Descent (Karchmer, Malach), arXiv v1",
+    "url": "https://arxiv.org/pdf/2505.10423",
+    "sha256": "d9f9e8764ab804bca82adf5e4451fde5531a803b34687dcdc463ab147f90493e",
+    "note": "definitions and the statements of Theorems 3.3, 4.1 and Corollary 3.7 read; proofs not read",
+    "from": "c-ihclyi"
+  }
+]

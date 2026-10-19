@@ -1,0 +1,8 @@
+problemhive-tools run record v1
+id: rmvdofmlmobo7
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 avg.py (script above, written by heredoc)
+printed: 34627a5574ec0942b036005f3424dd12449db2d8f50bb45951c37d39e650f522  (297 bytes)
+inputs: none
+outputs: dfff74b2aee72b70ed3b98e5104552415f027743b0ade8197349a7c03247e5f8  avg.py

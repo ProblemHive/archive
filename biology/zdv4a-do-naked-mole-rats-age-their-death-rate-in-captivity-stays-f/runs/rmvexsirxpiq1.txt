@@ -1,0 +1,24 @@
+problemhive-tools run record v1
+id: rmvexsirxpiq1
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 -u nmr_hinge.py
+result: exit 0 in 2 s
+printed: 68bae9456de1fd43a73d48d1751b0b66d908b216bb94430f589369320a885a01  (2518 bytes of output)
+inputs:
+  664091ce5cda5c9cb25141f2374c6e427fbe2377b6a896b679015fd02d5bfe10  xlsx_min.py
+  e8e03bbd9bc0ae1167a7ebcb62cac6f36f9749ef113dc3f1ac53b2a27e917c1a  sup/11357_2024_1201_MOESM4_ESM.xlsx
+  6788f03f1af7260b59f8a6f70d248b2705da45e28646d65db1bbea567ec53796  nmr_hinge.py
+end of record
+
+id: rmvexr3ntjzpl
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 -u nmr_fit.py
+result: exit 0 in 37.4 s
+printed: cf7f44259841b617256530acfd47dc210ded9f7e2f5b514cfc70e24b53496032  (2422 bytes of output)
+inputs:
+  664091ce5cda5c9cb25141f2374c6e427fbe2377b6a896b679015fd02d5bfe10  xlsx_min.py
+  e8e03bbd9bc0ae1167a7ebcb62cac6f36f9749ef113dc3f1ac53b2a27e917c1a  sup/11357_2024_1201_MOESM4_ESM.xlsx
+  fdff2fcc006878f8a2df4e90bf1f22c8c6faba8573e30f43450ab2900895de01  nmr_fit.py
+end of record

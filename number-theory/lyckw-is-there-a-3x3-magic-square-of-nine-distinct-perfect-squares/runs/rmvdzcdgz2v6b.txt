@@ -1,0 +1,12 @@
+problemhive-tools run record v1
+id: rmvdzcdgz2v6b
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: python3 -u residues.py
+result: exit 0 in 10.5 s
+printed: 9df5c11e63020caeec11c53134e3d67ef8a2ccff12ede9625651ffafd386a121  (1353 bytes of output)
+inputs:
+  78c1b8900a7e34ba16a245c0c9468612f35749f9111c0db4ebd6a44226db4099  residues.py
+outputs: (no files written)
+end of record

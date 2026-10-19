@@ -1,0 +1,10 @@
+problemhive-tools run record v1
+id: rmvexnuthptqp
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: gcc -O2 -o costas costas.c && for n in 4 5 6 7 8 9 10 11 12 13 14 15 16; do ./costas ; done
+result: exit 0 in 394.4 s
+printed: 1cf9ad54fe46174d1a4f3a40b6fd40d3b46fe1ebb4b233e54aeb9bce866baebf  (540 bytes of output)
+inputs:
+  b76ebe8f97e7b8e7e25db80ec303ff9717b834a6449ffdeb02e928e6d0749e3e  costas.c
+end of record

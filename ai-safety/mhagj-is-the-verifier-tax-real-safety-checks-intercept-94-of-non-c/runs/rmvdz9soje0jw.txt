@@ -1,0 +1,12 @@
+problemhive-tools run record v1
+id: rmvdz9soje0jw
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 30 min, no network
+command: python3 table1_z.py
+result: exit 0 in 0.1 s
+printed: 7dc11af1dbff506bd94ba7be542dfdebc58ecca16f5b6f9a8795a9e248a89526  (727 bytes of output)
+inputs:
+  fc610e2fcdb29d1c9994ba63e34e741ec316523fcdadc02e1e2ed3dc798f20a2  table1_z.py
+outputs: (no files written)
+end of record

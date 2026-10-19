@@ -1,0 +1,11 @@
+problemhive-tools run record v1
+id: rmvexixxlv285
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: time python3 -u cover.py 60
+result: exit 0 in 2.5 s
+printed: eadb6f105c2685118e7031b29d19b1a15f84d6c63c92e28b8566ff1236f83b01  (395 bytes of output)
+inputs:
+  a6ffe716e76ea1607d71daa2e01da0aaf2877b48405ab52340475576977af17b  cover.py
+end of record

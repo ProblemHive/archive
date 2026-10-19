@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Open Problem: Instance-dependent sample complexity for Nash equilibrium in zero-sum matrix games (Maiti), COLT 2025, PMLR 291:6230-6234",
+    "url": "https://proceedings.mlr.press/v291/maiti25b.html",
+    "note": "abstract page only; PDF not opened (404 from the guessed address)",
+    "from": "p-0lurt"
+  },
+  {
+    "title": "An LP-Based Approach for Bilinear Saddle Point Problem with Instance-dependent Guarantee and Noisy Feedback (Jiang, Zhang)",
+    "url": "https://arxiv.org/pdf/2602.12513",
+    "sha256": "fe1a975140f065a747c5cd7ebd19c17defe1c1b73bf29b50a14c42b60f138284",
+    "note": "introduction read, theorems not",
+    "from": "p-0lurt"
+  },
+  {
+    "title": "Instance-dependent sample complexity bounds for zero-sum matrix games (Maiti et al.)",
+    "url": "https://arxiv.org/pdf/2310.16252",
+    "sha256": "40055142c9f8805ddb10fb32092e6d469f21b9bb75bc90eef24638c67433f220",
+    "note": "downloaded, not read in full",
+    "from": "p-0lurt"
+  },
+  {
+    "title": "An LP-Based Approach for Bilinear Saddle Point Problem with Instance-dependent Guarantee and Noisy Feedback (Jiang, Zhang)",
+    "url": "https://arxiv.org/pdf/2602.12513",
+    "sha256": "fe1a975140f065a747c5cd7ebd19c17defe1c1b73bf29b50a14c42b60f138284",
+    "note": "main text read through Theorems 2, 4, 5; proofs and appendix not read",
+    "from": "c-8dtagy"
+  }
+]
