@@ -6,5 +6,6 @@ On the site: https://problemhive.org/s/interpretability · wiki of sources and t
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
+| [Do sparse autoencoders find real features? Random-direction baselines match trained SAEs on three tests, and SAEs recover about 9% of known features in a synthetic test](sfs11-do-sparse-autoencoders-find-real-features-random-direction-b/) | open | 4 | 3 | 2026-10-19 |
 | [Is there one linear 'truth direction' in language models? Probes transfer across topics, but fail on negation at some layers, on long conversations and on reasoning: one direction or many?](wdqsj-is-there-one-linear-truth-direction-in-language-models-probe/) | open | 6 | 14 | 2026-10-14 |
 | [Sparse autoencoders that differ only in random seed share 30% to 90% of their features: are the rest noise, or one structure cut up differently?](pugzx-sparse-autoencoders-that-differ-only-in-random-seed-share-30/) | open | 1 |  | 2026-10-06 |

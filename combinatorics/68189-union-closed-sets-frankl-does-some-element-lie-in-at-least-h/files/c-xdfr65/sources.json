@@ -1,0 +1,10 @@
+[
+  {"title": "The journey of the union-closed sets conjecture (Bruhn, Schaudt)", "url": "https://arxiv.org/pdf/1309.3297v2", "sha256": "076f92e303648773c41567b19a1ebdfce44a3ce89f86578341c59201174ca920", "note": "arXiv v2, 30 Oct 2013; Theorem 17, Lemma 18, Corollary 19 and the small-cases paragraph"},
+  {"title": "A constant lower bound for the union-closed sets conjecture (Gilmer)", "url": "https://arxiv.org/abs/2211.09055", "doi": "10.48550/arXiv.2211.09055", "note": "abstract read"},
+  {"title": "An improved lower bound for the union-closed set conjecture (Sawin)", "url": "https://arxiv.org/abs/2211.11504", "note": "abstract read"},
+  {"title": "Dimension-Free Bounds for the Union-Closed Sets Conjecture (Yu)", "url": "https://arxiv.org/abs/2212.00658", "note": "abstract read"},
+  {"title": "Improving the Lower Bound for the Union-closed Sets Conjecture via Conditionally IID Coupling (Liu)", "url": "https://arxiv.org/abs/2306.08824", "note": "abstract read"},
+  {"title": "Entropy bounds and global couplings for union-closed families (Jiang)", "url": "https://arxiv.org/abs/2609.08291", "note": "abstract read; v1 8 Sep 2026"},
+  {"title": "Beyond Liu's 0.382709 threshold for the union-closed sets conjecture (Costa, Sadhu)", "url": "https://arxiv.org/abs/2610.02295", "note": "abstract read; v1 1 Oct 2026"},
+  {"title": "The weighted union-set conjecture is false (Wang)", "url": "https://arxiv.org/abs/2609.25101", "note": "abstract read"}
+]

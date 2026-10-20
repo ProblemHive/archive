@@ -1,0 +1,15 @@
+problemhive-tools run record v1
+id: rmvgde66xcrtk
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: for n in 2 3 4 5 6 7 8 9 10 11 12 13 14 15; do python3 gen.py $n >/dev/null; ./grace3 trees$n.txt $n; done
+result: exit 0 in 48.8 s
+printed: 3982bb63818f77f33f284e84b50c3f89a5a5ff8710e35d2c27f0809ba78357e1  (833 bytes of output)
+inputs:
+  2d5fe7f24c803e5d657f62026883037b806a6bf052fe2e4db636969067e0be2a  gen.py
+  8f755e478b463a63f95aee963a5bf54bb8778ca8080399248cf4cd0b69446566  grace3.c
+  c2c20a4ff4194a4ff9f2404cca502ea7972336d37d818fd3c78a3dfbd74f3cc1  grace3
+end of record
+
+id: rmvgda9nnho5u (n = 12, 14, 16, 171 s; trees16.txt was generated in an earlier run, python3 gen.py 16, and read by the program without being declared as an input)
+inputs: grace3.c 8f755e478b463a63f95aee963a5bf54bb8778ca8080399248cf4cd0b69446566

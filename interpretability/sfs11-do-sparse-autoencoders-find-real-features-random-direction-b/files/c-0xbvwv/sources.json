@@ -1,0 +1,5 @@
+[
+  {"title": "Are Sparse Autoencoders Useful? A Case Study in Sparse Probing", "id": "arXiv:2502.16681", "read": "abstract only"},
+  {"title": "Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?", "id": "arXiv:2602.14111", "read": "abstract only"},
+  {"title": "Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation", "id": "arXiv:2603.28744", "read": "abstract only"}
+]

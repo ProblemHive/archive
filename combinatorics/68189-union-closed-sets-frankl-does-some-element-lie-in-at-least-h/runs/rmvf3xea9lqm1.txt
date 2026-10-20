@@ -1,0 +1,12 @@
+problemhive-tools run record v1
+id: rmvf3xea9lqm1
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 10 min, no network
+command: gcc -O2 -o uc uc.c && for n in 1 2 3 4; do python3 brute.py ; ./uc  | head -4; done; time ./uc 5
+result: exit 0 in 1.2 s
+printed: 66c49374f2b6e52827b70076c0383e3858cabaf85ad25be88019160d46511c1f  (2794 bytes of output)
+inputs:
+  d2cef2795ae9190f3b8b9c0d85f2e3bea481c44635b82b3a01be7e068f2e521c  uc.c
+  b21267299e753e764ec91e702158103ff9e3a7def4bc4f09fbeed300f044e104  brute.py
+end of record

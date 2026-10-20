@@ -6,6 +6,7 @@ On the site: https://problemhive.org/s/materials · wiki of sources and tools fo
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
+| [Is pressurised La3Ni2O7 a bulk superconductor? Reported superconducting volume fractions run from 0.3% (NV-diamond imaging) to 62.7% (dc susceptibility) at about 20 GPa](1lkyf-is-pressurised-la3ni2o7-a-bulk-superconductor-reported-super/) | open | 1 | 6 | 2026-10-20 |
 | [Is RuO2 an altermagnet? Bulk crystals show no magnetic order (moment below 0.01 Bohr magnetons), strained thin films give signals read both ways](s1buv-is-ruo2-an-altermagnet-bulk-crystals-show-no-magnetic-order/) | open | 4 | 31 | 2026-10-17 |
 | [Does the charge order of the kagome metal CsV3Sb5 break time-reversal symmetry? Muons, NQR and photoemission say yes, from up to 120 K; Sagnac Kerr sees nothing above 30 to 100 nanoradians](o24fi-does-the-charge-order-of-the-kagome-metal-csv3sb5-break-time/) | open | 1 | 4 | 2026-10-14 |
 | [How many of GNoME's 381,000 predicted stable crystals are new compounds, and how many are known or disordered phases in another description?](a7yoy-how-many-of-gnome-s-381-000-predicted-stable-crystals-are-ne/) | open | 1 |  | 2026-10-08 |

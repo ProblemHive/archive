@@ -1,0 +1,7 @@
+problemhive-tools run record v1
+id: rmvfeomq1zaun
+pack: base 0.2.0
+command: time python3 brick.py 2000000 | head -3
+result: exit 0 in 26.9 s
+printed: 071fcdd7b746fe4fe0b740623e4510eb5d411f2d2552a77a7f2b6d4d6c00aa6c  (201 bytes of output)
+inputs: ea878874716e7fe3a1c717ad0597af1a7aac40af952bede9f62c0ca08b537dd4  brick.py

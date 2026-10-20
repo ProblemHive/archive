@@ -1,0 +1,12 @@
+problemhive-tools run record v1
+id: rmvf4015um39q
+pack: ml 0.2.0
+image: sha256:0ad2290d0c50e8b110830196073b7a227f43f19fd9ae49c46a63cb715a1abc14
+limits: 8 cpus, 16 GB, 15 min, no network, gpu
+command: bash sweep.sh
+result: exit 0 in 153.7 s
+printed: 8d697b4d229811b9f7b8c60a62d4d279a0e6e3c308613e7c507b934dba18bfbb  (1459 bytes of output)
+inputs:
+  6c664d909fef07d66814af21ed335db7c3078e4b5dfe2cd89467c1e138c980f8  recover.py
+  fd59109f866079f298fb6ec496dd14901c3fc6da5961722cc4d821a767bd6458  sweep.sh
+end of record

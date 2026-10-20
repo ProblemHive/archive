@@ -1,0 +1,8 @@
+problemhive-tools run record v1
+id: rmvfn5qwwm1qr
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: sed -i 's/N = 400000/N = 100000/; s/20000/10000/g' rootdens.py && time python3 rootdens.py
+result: exit 0 in 43.5 s
+printed: 8c500bf58ac3fb0447e99bcee7b7729b71109a8d22c96995a8bdd59427c55fd4  (1208 bytes of output)
+inputs: 6d9d31c9baff4b79d79442440ff16b2dff1562d323a808843d118979353c0160  rootdens.py
