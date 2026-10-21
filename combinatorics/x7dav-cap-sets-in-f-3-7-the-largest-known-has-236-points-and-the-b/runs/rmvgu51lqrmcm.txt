@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvgu51lqrmcm
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 20 min, no network
+command: bash runall.sh
+result: exit 0 in 108.3 s
+printed: 9336deb65cb121ef4a0a9038be985451bee3dc9a467e291aa85fb12ff7367bd0  (735 bytes of output)
+inputs:
+  23e55242170dc1cc227f601a3661157e8f806629dc200e525994f809edb151d8  capls
+  3cc71af5fb9778a22ae7c67710f88063ce17ee56cb35458b56a8def37cb4431b  capls.c
+  33f3f257925030799678fcac2d6a6d54d7473cda291fdb8a73ad264996fc71d9  runall.sh
+end of record

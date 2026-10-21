@@ -1,0 +1,9 @@
+problemhive-tools run record v1
+id: rmvgjlo3uqjtt
+pack: base 0.2.0
+command: python3 split_test.py
+result: exit 0 in 4.3 s
+printed: d6725c8314219f249e7bc759093737de3f06aa2920f646626cb9037636c1cb32  (351 bytes of output)
+inputs: 797b35f594885f1032cdb751c74669bcc8378802b97ab5157b148b7a32791eb7  li.txt (pdftotext -layout of the PDF above)
+        0e2077ecc0f1af3d8313a883cec50f94310e1c7882b77e1c0cf8b55008c70d27  split_test.py
+end of record

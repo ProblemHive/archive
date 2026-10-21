@@ -1,0 +1,12 @@
+problemhive-tools run record v1
+id: rmvh2uqnkn017
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 pack.py 68 100 200 400 731 1000
+result: exit 0 in 1.4 s
+printed: e597b8c809ac1bba900a71cf5aa7e08e0a386b8884ad415b7f69658599a5f700
+inputs:
+  1fbf29506a9f7b5d89d22acb358fcbc32df0cc9c0a97a66f3529879d6399d927  f302.py
+  de29429f51d9090b1b6b5afa3982a1760962fe8601ef5df768d9da784362825f  pack.py
+outputs: da48ec03a14a31da0f748c75bad8d518dd2b33ec396758a4b1d52c27df2e1697  pack.txt
+end of record

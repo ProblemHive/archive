@@ -6,6 +6,7 @@ On the site: https://problemhive.org/s/astronomy · wiki of sources and tools fo
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
+| [Hubble tension with JWST: do CCHP (H0 about 70.4) and SH0ES (about 72.6 to 73.2) differ because of which supernova hosts are used?](rx5e2-hubble-tension-with-jwst-do-cchp-h0-about-70-4-and-sh0es-abo/) | open | 9 | 11 | 2026-10-20 |
 | [Did old stars destroy primordial lithium? Interstellar lithium in the Small Magellanic Cloud gives 2.68 in one analysis and 2.16 in another, against 2.69 from Big Bang nucleosynthesis](o4aez-did-old-stars-destroy-primordial-lithium-interstellar-lithiu/) | open | 2 | 4 | 2026-10-19 |
 | [What carves the exoplanet radius valley: photoevaporation or core-powered mass loss? Three 2023-2026 samples lean to core-powered loss, but the test needs about 5000 planets with 5% radii](yw143-what-carves-the-exoplanet-radius-valley-photoevaporation-or/) | open | 3 | 9 | 2026-10-19 |
 | [Cosmic dipole anomaly: is the number-count dipole of distant quasars and radio galaxies really twice what our motion predicts? 4.9 sigma in CatWISE, 3.3 to 3.6 sigma in a 2026 reassessment](o7wkq-cosmic-dipole-anomaly-is-the-number-count-dipole-of-distant/) | open | 6 | 10 | 2026-10-16 |

@@ -1,0 +1,9 @@
+problemhive-tools run record v1
+id: rmvhsea2kuj82
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: time ./cubes 2000 999 > out2000.txt && python3 table.py out2000.txt
+result: exit 0 in 1.2 s
+printed: 462906b82d9b667a0b10da48ffc3a86f6f368ce4ac8cc24b52a9a57d29d6ab8e  (1225 bytes of output)
+inputs: dd59f2cd87e15e873d290f2f9c5c0934327cfb65a5480e0a645e05a08b71739a cubes.c; 58cda5a36c8d788854fc03c246e56121805fb8d1839ff15fa605e3c165fad5db table.py; 140c2b9bc46a09bab84db86342efb43391db0ea75421f590f470730f5743baa7 cubes (compiled binary from the gcc line above)
+outputs: d6618630791a1ef95ecff505014378c9c071d953612bea676530f2423d23b982 out2000.txt

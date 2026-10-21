@@ -1,0 +1,8 @@
+problemhive-tools run record v1
+id: rmvhsnf509qyl
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 -u rho.py 300000 114 390 627 975 42 3 33 2>&1 | tail -20
+result: exit 0 in 4.7 s
+printed: 1486747c390ba36a191c33a3d1343ba548029d176a9ef3b8c25221911c697645  (1666 bytes of output)
+inputs: 02ba97a067b67d684c51cf044615f0345bbf2658e4fc813ed4216907aa7180d6  rho.py

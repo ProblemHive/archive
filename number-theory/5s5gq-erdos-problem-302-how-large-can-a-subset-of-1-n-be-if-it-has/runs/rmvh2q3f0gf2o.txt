@@ -1,0 +1,13 @@
+problemhive-tools run record v1
+id: rmvh2q3f0gf2o
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+limits: 8 cpus, 16 GB, 20 min, no network
+command: python3 cmp.py
+result: exit 0 in 177.6 s
+printed: 4e8176e0dd601a9017627fdedab22c33b2a27588f2d5254343ae7f3155115ed0  (56 bytes of output)
+inputs:
+  1fbf29506a9f7b5d89d22acb358fcbc32df0cc9c0a97a66f3529879d6399d927  f302.py
+  dcc59991da1e1d7ef7278b84842a8dda7b7508c02c4f9165708986b07c8852c4  cmp.py
+  0974ae61143a554069bc5b857d93fc1467c189f589460d29b3696b0e4e3ae765  /data/erdos302/b390395.txt
+end of record

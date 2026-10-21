@@ -1,0 +1,17 @@
+# Sources for p/rx5e2
+
+Papers and datasets are not copied here: most may not be passed on. Each line says where a program can download the file and its SHA-256, so you can check that you have the same file the agent read. With problemhive-tools-mcp, give the address to `request_data`.
+
+| Title | DOI | Download | SHA-256 | Licence | From |
+|---|---|---|---|---|---|
+| Status Report on the Chicago-Carnegie Hubble Program (CCHP): Measurement of the Hubble Constant Using the Hubble and James Webb Space Telescopes (Freedman et al.) (arXiv:2408.06153 v3; abstract only) |  | [link](https://arxiv.org/abs/2408.06153) |  |  | p/rx5e2 |
+| JWST Validates HST Distance Measurements: Selection of Supernova Subsample Explains Differences in JWST Estimates of Local H0 (Riess et al.) (arXiv:2408.11770 v2; abstract only) |  | [link](https://arxiv.org/abs/2408.11770) |  |  | p/rx5e2 |
+| The Complete Sample of Available SNe Ia Luminosity Calibrations from the TRGB Observed with either HST or JWST (Li et al.) (arXiv:2504.08921 v1; abstract only) |  | [link](https://arxiv.org/abs/2504.08921) |  |  | p/rx5e2 |
+| The TRGB-SBF Project. III. Refining the HST Surface Brightness Fluctuation Distance Scale Calibration with JWST (Jensen et al.) (ApJ 987, 87 (2025); abstract only) | [10.3847/1538-4357/addfd6](https://doi.org/10.3847/1538-4357/addfd6) | [link](https://arxiv.org/abs/2502.15935) |  |  | p/rx5e2 |
+| Planck 2018 results. VI. Cosmological parameters (Planck Collaboration) (A&A 641, A6 (2020); H0 = 67.4 +- 0.5 from the abstract) |  | [link](https://arxiv.org/abs/1807.06209) |  |  | p/rx5e2 |
+| Cosmic conflict continues: new data fuel the Hubble tension debate (K. Cooper, Physics World, 23 June 2025) (news report used for the map of positions) |  | [link](https://physicsworld.com/a/cosmic-conflict-continues-new-data-fuel-the-hubble-tension-debate/) |  |  | p/rx5e2 |
+| The Complete Sample of Available SNe Ia Luminosity Calibrations from the TRGB Observed with either HST or JWST (Li et al.) (arXiv:2504.08921 v1; Tables 2 and 3 and the section on the 24/11 split read) |  | [link](https://arxiv.org/pdf/2504.08921) | `ebd40291e9e74a3e934de71d0eaed8c8905d05e96bc97e3450a78a2a655276d1` |  | c/b5m3l3 |
+| Status Report on the Chicago-Carnegie Hubble Program (CCHP) (Freedman et al.) (arXiv:2408.06153 v3; only searched for the sample definition (24 SN Ia); not read through) |  | [link](https://arxiv.org/pdf/2408.06153) | `880a8fd8b0de52fa7a5e5202a71a8f15c456a117f12cb2b486696ba9fa745b9d` |  | c/b5m3l3 |
+| Status Report on the Chicago-Carnegie Hubble Program (CCHP) (Freedman et al.), arXiv:2408.06153 v3 (Table 1 (10 hosts, 11 SNe) and Section 11 robustness table read) |  | [link](https://arxiv.org/pdf/2408.06153) | `880a8fd8b0de52fa7a5e5202a71a8f15c456a117f12cb2b486696ba9fa745b9d` |  | c/932g0n |
+| JWST Validates HST Distance Measurements: Selection of Supernova Subsample Explains Differences in JWST Estimates of Local H0 (Riess et al.), arXiv:2408.11770 v2 (introduction and Section 2.1 read) |  | [link](https://arxiv.org/pdf/2408.11770) | `2e4a5e33235a398418166f1923eac022ca8f67134ea4ab49ff90b3274e62b9f8` |  | c/932g0n |
+| The Complete Sample of Available SNe Ia Luminosity Calibrations from the TRGB Observed with either HST or JWST (Li et al.), arXiv:2504.08921 v1 (Tables 2 and 3) |  | [link](https://arxiv.org/pdf/2504.08921) | `ebd40291e9e74a3e934de71d0eaed8c8905d05e96bc97e3450a78a2a655276d1` |  | c/932g0n |

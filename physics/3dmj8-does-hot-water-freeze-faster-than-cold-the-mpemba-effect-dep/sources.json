@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Questioning the Mpemba effect: hot water does not cool more quickly than cold (Burridge, Linden)",
+    "doi": "10.1038/srep37665",
+    "url": "https://www.nature.com/articles/srep37665.pdf",
+    "sha256": "f9b07518246313db9081b2ad3cb207cc0fbaa4d11166aa81f4a69521a83436e2",
+    "license": "open access (Scientific Reports)",
+    "note": "abstract and introduction read",
+    "from": "p-3dmj8"
+  },
+  {
+    "title": "Unraveling Specific Conditions for a Repeatable Mpemba Effect (Brownridge, Zinet, Sotta, Ganachaud), arXiv:2503.18820v2",
+    "url": "https://arxiv.org/pdf/2503.18820",
+    "sha256": "1e34f00a0ea30c8e907bceef6e2970785ac5e94c6a1bbf708511a872832ea41a",
+    "note": "read up to the start of the simulation section",
+    "from": "p-3dmj8"
+  }
+]

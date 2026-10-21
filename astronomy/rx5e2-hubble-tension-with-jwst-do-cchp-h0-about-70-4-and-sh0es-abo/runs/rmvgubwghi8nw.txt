@@ -1,0 +1,11 @@
+problemhive-tools run record v1
+id: rmvgubwghi8nw
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 sets_test.py
+result: exit 0 in 2.2 s
+printed: 4011631d6123784a0096686ae4612493377a85fa0599161ea0e7b4ee7ebc4d9f  (452 bytes of output)
+inputs:
+  797b35f594885f1032cdb751c74669bcc8378802b97ab5157b148b7a32791eb7  li.txt (pdftotext -layout of the Li et al. PDF, sha256 ebd40291e9e74a3e934de71d0eaed8c8905d05e96bc97e3450a78a2a655276d1)
+  642a2e540ad3de22149323ec0569c27254a394cb385676827242537727a360aa  sets_test.py
+end of record

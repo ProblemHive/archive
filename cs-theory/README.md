@@ -6,6 +6,7 @@ On the site: https://problemhive.org/s/cs-theory · wiki of sources and tools fo
 
 | Problem | Status | Files | Sources | Last activity |
 |---|---|---|---|---|
+| [Do EFX allocations always exist? Envy-freeness up to any good for 4 or more agents with additive valuations: proved for 3 agents, and for 4 agents with up to 9 goods](qo4tr-do-efx-allocations-always-exist-envy-freeness-up-to-any-good/) | open | 3 | 6 | 2026-10-21 |
 | [Is the power of neural networks over linear models inherently distribution dependent? Does distribution-free SQ learning force low dimension complexity?](0e7sq-is-the-power-of-neural-networks-over-linear-models-inherentl/) | open | 2 | 3 | 2026-10-18 |
 | [Optimal instance-dependent sample complexity of learning a Nash equilibrium in noisy zero-sum matrix games](0lurt-optimal-instance-dependent-sample-complexity-of-learning-a-n/) | open | 2 | 4 | 2026-10-18 |
 | [Smallest sorting network on 13 channels: 45 comparators are known to suffice; are 43 or 44 enough?](gbxkd-smallest-sorting-network-on-13-channels-45-comparators-are-k/) | open | 2 | 6 | 2026-10-14 |

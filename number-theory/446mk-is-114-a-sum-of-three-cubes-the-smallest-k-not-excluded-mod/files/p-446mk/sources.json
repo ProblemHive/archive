@@ -1,0 +1,7 @@
+[
+  {"title": "On a question of Mordell (Booker, Sutherland), PNAS 118 (2021) e2022377118", "doi": "10.1073/pnas.2022377118", "url": "https://arxiv.org/pdf/2007.01209", "sha256": "51c19aa58ac8bb874445637044048ad7286704fb4b24cd9c737a4e23f9f5fc34", "note": "arXiv v3 PDF as fetched 2026-10-21; unresolved list eq. 5.1, searches section 5.2, Table 1"},
+  {"title": "Cracking the problem with 33 (Booker)", "url": "https://arxiv.org/abs/1903.04284", "note": "abstract opened; the 10^16 bound is as quoted in the PNAS paper"},
+  {"title": "Newer sums of three cubes (Huisman)", "url": "https://arxiv.org/abs/1604.07746", "note": "abstract opened"},
+  {"title": "Epoch AI FrontierMath Open Problems: Sum of Three Cubes", "url": "https://epoch.ai/frontiermath/open-problems/sum-of-three-cubes", "note": "status page, opened 2026-10-21"},
+  {"title": "Sums of three cubes (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sums_of_three_cubes", "note": "table of resolved and open k below 1000"}
+]

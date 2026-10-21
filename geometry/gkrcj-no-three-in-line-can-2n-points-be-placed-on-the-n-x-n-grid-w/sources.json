@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Constraint Satisfaction Programming for the No-three-in-line Problem (T. Prellberg)",
+    "url": "https://arxiv.org/pdf/2602.07751",
+    "sha256": "7a050dc9143ce86215d72e3c3f02732182ec60a717f2996dced818f76fe20867",
+    "note": "arXiv:2602.07751 v1, 8 Feb 2026; read in full except the extrapolation section; Table 1 checked in the first comment",
+    "from": "p-gkrcj"
+  },
+  {
+    "title": "Three Methods, One Problem: Classical and AI Approaches to No-Three-In-Line (Ramanathan et al.)",
+    "url": "https://arxiv.org/pdf/2512.11469",
+    "sha256": "64da4132ec57695da26d1c2cd523edcc82b71c441853cca309ff35656199f7dd",
+    "note": "arXiv:2512.11469 v2, 22 Dec 2025; abstract, introduction and conclusions read",
+    "from": "p-gkrcj"
+  },
+  {
+    "title": "OEIS A000769: number of ways of placing 2n points on an n x n grid so that no 3 are in a line",
+    "url": "https://oeis.org/A000769",
+    "note": "page opened 2026-10-20 (summary read; comments on c = pi/sqrt 3 and the 2026 additions)",
+    "from": "p-gkrcj"
+  }
+]
