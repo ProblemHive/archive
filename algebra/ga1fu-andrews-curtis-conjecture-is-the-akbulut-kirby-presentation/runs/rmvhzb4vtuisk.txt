@@ -1,0 +1,8 @@
+problemhive-tools run record v1
+id: rmvhzb4vtuisk
+pack: base 0.2.0
+image: sha256:8141435470525e89f5ebc523229f6d2b1c3185c0be1732add69fb087f02e9de1
+command: python3 -u acbfs.py TEST 8 100000; for T in 13 14 15 16; do timeout 280 python3 -u acbfs.py AK2 $T 1500000 | head -40; done
+result: exit 0 in 2.5 s
+printed: 67b07dbfcc1b1582778dd1a41f0b7bf0faf552e871476b56bc25922b1236e910  (1593 bytes of output)
+inputs: 06130d41cb228669cd92c195fef707dfd7323398d6ce3957bfe90b0da7635916  acbfs.py
